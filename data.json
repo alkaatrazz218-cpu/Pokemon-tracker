@@ -890,6 +890,11 @@
           "date": "27/12/2025",
           "prix": 50,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 59.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Bundle Flammes Blanches"
@@ -911,6 +916,11 @@
           "date": "27/12/2025",
           "prix": 40,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 59.45,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Bundle Foudre Noire"
@@ -937,6 +947,11 @@
           "date": "27/12/2025",
           "prix": 50,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 59.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Bundle Flammes Blanches"
@@ -963,6 +978,11 @@
           "date": "27/12/2025",
           "prix": 50,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 59.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Bundle Flammes Blanches"
@@ -989,6 +1009,11 @@
           "date": "27/12/2025",
           "prix": 40,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 59.45,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Bundle Foudre Noire"
@@ -1015,6 +1040,11 @@
           "date": "27/12/2025",
           "prix": 40,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 59.45,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Bundle Foudre Noire"
@@ -1041,6 +1071,11 @@
           "date": "27/12/2025",
           "prix": 73,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 89.97,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Flamme Blanche"
@@ -1067,6 +1102,11 @@
           "date": "27/12/2025",
           "prix": 70,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 89.97,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Flamme Blanche"
@@ -1093,6 +1133,11 @@
           "date": "27/12/2025",
           "prix": 70,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 99.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Foudre Noire"
@@ -1119,6 +1164,11 @@
           "date": "27/12/2025",
           "prix": 15,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 25.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Unys Mamanbo et Coupenotte"
@@ -4528,6 +4578,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:25:15.550820",
+  "ebayDate": "2026-04-01T23:26:22.306164",
   "at": "2026-04-01T21:06:32.616Z"
 }
