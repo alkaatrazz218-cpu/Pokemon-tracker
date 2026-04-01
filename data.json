@@ -1195,6 +1195,11 @@
           "date": "27/12/2025",
           "prix": 15,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 20.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Unys Fragilady et Farfaduvet"
@@ -1221,6 +1226,11 @@
           "date": "27/12/2025",
           "prix": 15,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 16.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Unys Crocorible et Minotaupe"
@@ -1247,6 +1257,11 @@
           "date": "27/12/2025",
           "prix": 15,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 16.52,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Unys Miasmax et Gaulet"
@@ -1299,6 +1314,11 @@
           "date": "27/12/2025",
           "prix": 15,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 25.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Unys Shaofouine et Cliticlic"
@@ -1325,6 +1345,11 @@
           "date": "27/12/2025",
           "prix": 15,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 17.15,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Unys Ohmassacre et Mygavolt"
@@ -1351,6 +1376,11 @@
           "date": "27/12/2025",
           "prix": 15,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 25.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Unys Lugulabre et Zorua"
@@ -1377,6 +1407,11 @@
           "date": "27/12/2025",
           "prix": 60,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 65.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Bundle Rivalités destinées"
@@ -1403,6 +1438,11 @@
           "date": "27/12/2025",
           "prix": 100,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 147.5,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Rivalités destinées"
@@ -1429,6 +1469,11 @@
           "date": "27/12/2025",
           "prix": 290,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 312.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Display Rivalités Destinées"
@@ -4578,6 +4623,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:26:22.306164",
+  "ebayDate": "2026-04-01T23:27:28.456317",
   "at": "2026-04-01T21:06:32.616Z"
 }
