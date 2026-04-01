@@ -2170,6 +2170,11 @@
           "date": "27/12/2025",
           "prix": 30,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 45.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Pokebox Kyogre"
@@ -2206,6 +2211,11 @@
           "date": "27/12/2025",
           "prix": 30,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 50.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Pokebox Dialga"
@@ -2242,6 +2252,11 @@
           "date": "27/12/2025",
           "prix": 30,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 45.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Pokebox Xerneas"
@@ -2304,6 +2319,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 25.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Voltali"
@@ -2340,6 +2360,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 25.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Aquali"
@@ -2376,6 +2401,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 29.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Givrali"
@@ -2438,6 +2468,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 25.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Phyllali"
@@ -2474,6 +2509,11 @@
           "date": "27/12/2025",
           "prix": 240,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 200.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Display Faille paradoxe"
@@ -2510,6 +2550,11 @@
           "date": "27/12/2025",
           "prix": 95,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 119.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
@@ -2546,6 +2591,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 29.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Mentali"
@@ -4718,6 +4768,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:29:40.905942",
+  "ebayDate": "2026-04-01T23:30:46.794481",
   "at": "2026-04-01T21:06:32.616Z"
 }
