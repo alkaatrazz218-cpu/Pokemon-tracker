@@ -4324,6 +4324,11 @@
           "date": "27/12/2025",
           "prix": 175,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 187.5,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Ecarlate et Violet"
@@ -4360,6 +4365,11 @@
           "date": "27/12/2025",
           "prix": 170,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 187.5,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Ecarlate et Violet"
@@ -4396,6 +4406,11 @@
           "date": "27/12/2025",
           "prix": 55,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 179.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Collection Premium Dracaufeu"
@@ -4432,6 +4447,11 @@
           "date": "27/12/2025",
           "prix": 65,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 81.5,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Pokémon Fulgudog"
@@ -4468,6 +4488,11 @@
           "date": "27/12/2025",
           "prix": 65,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 81.5,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Pokémon Fulgudog"
@@ -4504,6 +4529,11 @@
           "date": "27/12/2025",
           "prix": 65,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 89.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Destinées Radieuses Pikachu"
@@ -4540,6 +4570,11 @@
           "date": "27/12/2025",
           "prix": 65,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 89.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Destinées Radieuses Pikachu"
@@ -4576,6 +4611,11 @@
           "date": "27/12/2025",
           "prix": 55,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 69.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Pokebox Destinées de Paldea Dracaufeu"
@@ -4612,6 +4652,11 @@
           "date": "27/12/2025",
           "prix": 55,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 69.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Pokebox Destinées de Paldea Dracaufeu"
@@ -4648,6 +4693,11 @@
           "date": "27/12/2025",
           "prix": 30,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 59.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Pokebox Pokémon GO Pikachu"
@@ -4968,6 +5018,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:35:12.436127",
+  "ebayDate": "2026-04-01T23:36:18.775496",
   "at": "2026-04-01T21:06:32.616Z"
 }
