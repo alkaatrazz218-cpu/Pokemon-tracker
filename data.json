@@ -630,7 +630,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 95.0,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
     },
     {
@@ -650,6 +656,11 @@
           "date": "27/12/2025",
           "prix": 50,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 52.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Bundle Flammes Fantasmagoriques"
@@ -692,6 +703,11 @@
           "date": "27/12/2025",
           "prix": 80,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 95.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
@@ -713,6 +729,11 @@
           "date": "27/12/2025",
           "prix": 170,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 219.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Collection Ultra Premium Mega Dracaufeu X"
@@ -734,6 +755,11 @@
           "date": "27/12/2025",
           "prix": 170,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 219.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Collection Ultra Premium Mega Dracaufeu X"
@@ -755,6 +781,11 @@
           "date": "27/12/2025",
           "prix": 25,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 39.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Arset Flammes obsidiennes loose"
@@ -776,6 +807,11 @@
           "date": "27/12/2025",
           "prix": 80,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 94.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution"
@@ -797,6 +833,11 @@
           "date": "27/12/2025",
           "prix": 80,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 94.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution"
@@ -823,6 +864,11 @@
           "date": "27/12/2025",
           "prix": 70,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 92.26,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Aventure Ensemble"
@@ -4482,6 +4528,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:24:07.433097",
+  "ebayDate": "2026-04-01T23:25:15.550820",
   "at": "2026-04-01T21:06:32.616Z"
 }
