@@ -3094,6 +3094,11 @@
           "date": "27/12/2025",
           "prix": 27,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 49.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Pokebox Vert de Fer"
@@ -3130,6 +3135,11 @@
           "date": "27/12/2025",
           "prix": 40,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 45.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Arset Booster blister etincelle deferlante"
@@ -3166,6 +3176,11 @@
           "date": "27/12/2025",
           "prix": 240,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 280.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Display Etincelles Déferlantes"
@@ -3202,6 +3217,11 @@
           "date": "27/12/2025",
           "prix": 50,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 63.95,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffre aux Trésors Pikachu teracristal"
@@ -3238,6 +3258,11 @@
           "date": "27/12/2025",
           "prix": 50,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 63.95,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffre aux Trésors Pikachu teracristal"
@@ -3274,6 +3299,11 @@
           "date": "27/12/2025",
           "prix": 60,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 57.13,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Bundle Etincelles déferlante"
@@ -3310,6 +3340,11 @@
           "date": "27/12/2025",
           "prix": 60,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 57.13,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Bundle Etincelles déferlante"
@@ -3346,6 +3381,11 @@
           "date": "27/12/2025",
           "prix": 15,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 14.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "12 booster Trick or Trade 2024"
@@ -3382,6 +3422,11 @@
           "date": "27/12/2025",
           "prix": 288,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 275.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Display Flammes obsidiennes"
@@ -3418,6 +3463,11 @@
           "date": "27/12/2025",
           "prix": 125,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 154.95,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Nostenfer Destinées Radieuses"
@@ -4818,6 +4868,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:31:53.686682",
+  "ebayDate": "2026-04-01T23:33:00.097999",
   "at": "2026-04-01T21:06:32.616Z"
 }
