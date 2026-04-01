@@ -1,0 +1,4319 @@
+{
+  "articles": [
+    {
+      "id": "1775077582798",
+      "type": "Pokemon",
+      "item": "Poke test",
+      "cout": 10000,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "01/04/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": ""
+    },
+    {
+      "id": "1775077568998",
+      "type": "Pokemon",
+      "item": "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Serie 1",
+      "cout": 22.5,
+      "stk": "Appartement",
+      "site": "Discord",
+      "dt": "27/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Premiers Partenaires Serie 1"
+    },
+    {
+      "id": "1775077568999",
+      "type": "Pokemon",
+      "item": "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Serie 1",
+      "cout": 22.5,
+      "stk": "Appartement",
+      "site": "Discord",
+      "dt": "27/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Premiers Partenaires Serie 1"
+    },
+    {
+      "id": "1775077569001",
+      "type": "Pokemon",
+      "item": "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Serie 1",
+      "cout": 22.5,
+      "stk": "Appartement",
+      "site": "Discord",
+      "dt": "27/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Premiers Partenaires Serie 1"
+    },
+    {
+      "id": "1775077568995",
+      "type": "Pokemon",
+      "item": "Coffret Premium - Pokemon - Me 2.5 Heros Transcendants",
+      "cout": 64.99,
+      "stk": "Appartement",
+      "site": "Fnac",
+      "dt": "19/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Premium  Heros Transcendants Gardevoir"
+    },
+    {
+      "id": "1775077568996",
+      "type": "Pokemon",
+      "item": "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Serie 1",
+      "cout": 19.99,
+      "stk": "Appartement",
+      "site": "Fnac",
+      "dt": "19/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Premiers Partenaires Serie 1"
+    },
+    {
+      "id": "1775077568997",
+      "type": "Pokemon",
+      "item": "Pin Box Deluxe - Pokemon - Me 2.5 Heros Transcendants",
+      "cout": 32.99,
+      "stk": "Appartement",
+      "site": "Fnac",
+      "dt": "19/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Pin Box Heros Transcendants"
+    },
+    {
+      "id": "1775077569002",
+      "type": "Topps",
+      "item": "2026 Topps Brooklyn Collection - Hobby Box",
+      "cout": 230,
+      "stk": "Appartement",
+      "site": "Topps",
+      "dt": "11/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "box topps brooklyn marvel"
+    },
+    {
+      "id": "1775077569003",
+      "type": "Topps",
+      "item": "2025 Topps Disneyland 70th Anniversary - Hobby Box",
+      "cout": 139,
+      "stk": "Appartement",
+      "site": "Topps",
+      "dt": "11/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "box hobby topps disney 70th"
+    },
+    {
+      "id": "1775077569004",
+      "type": "Topps",
+      "item": "2025 Topps Disneyland 70th Anniversary - Hobby Box",
+      "cout": 139,
+      "stk": "Appartement",
+      "site": "Topps",
+      "dt": "11/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "box hobby topps disney 70th"
+    },
+    {
+      "id": "1775077569005",
+      "type": "Topps",
+      "item": "2025 Topps Disneyland 70th Anniversary - Hobby Box",
+      "cout": 139,
+      "stk": "Appartement",
+      "site": "Topps",
+      "dt": "11/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "box hobby topps disney 70th"
+    },
+    {
+      "id": "1775077568994",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur D'elite - Pokemon - Me 3 Equilibre Parfait",
+      "cout": 59.99,
+      "stk": "Va arriver",
+      "site": "Micromania",
+      "dt": "10/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Dresseur D'elite Equilibre Parfait"
+    },
+    {
+      "id": "1775077568993",
+      "type": "Pokemon",
+      "item": "Bundle 6 Boosters - Pokemon - Me 3 Equilibre Parfait",
+      "cout": 39.99,
+      "stk": "Va arriver",
+      "site": "Micromania",
+      "dt": "09/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Bundle Equilibre Parfait"
+    },
+    {
+      "id": "1775077568992",
+      "type": "Pokemon",
+      "item": "Pin Box Deluxe - Pokemon - Me 2.5 Heros Transcendants",
+      "cout": 34.99,
+      "stk": "Va arriver",
+      "site": "Micromania",
+      "dt": "03/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Pin Box Heros Transcendants"
+    },
+    {
+      "id": "1775077568991",
+      "type": "Pokemon",
+      "item": "Coffret Premium - Pokemon - Me 2.5 Heros Transcendants",
+      "cout": 64.99,
+      "stk": "Va arriver",
+      "site": "Micromania",
+      "dt": "02/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Premium  Heros Transcendants Gardevoir"
+    },
+    {
+      "id": "1775077568989",
+      "type": "Pokemon",
+      "item": "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Serie 1",
+      "cout": 14.99,
+      "stk": "Va arriver",
+      "site": "Micromania",
+      "dt": "01/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Premiers Partenaires Serie 1"
+    },
+    {
+      "id": "1775077568990",
+      "type": "Pokemon",
+      "item": "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Serie 1",
+      "cout": 14.99,
+      "stk": "Va arriver",
+      "site": "Micromania",
+      "dt": "01/03/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Premiers Partenaires Serie 1"
+    },
+    {
+      "id": "1775077568976",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Méga Evolution Flammes Fantasmagoriques ME02",
+      "cout": 55.99,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "25/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
+    },
+    {
+      "id": "1775077568977",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Méga Evolution Flammes Fantasmagoriques ME02",
+      "cout": 55.99,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "25/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
+    },
+    {
+      "id": "1775077568979",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Méga Evolution Flammes Fantasmagoriques ME02",
+      "cout": 55.99,
+      "stk": "7",
+      "site": "Fnac",
+      "dt": "25/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
+    },
+    {
+      "id": "1775077568980",
+      "type": "Pokemon",
+      "item": "Pokebox Mega-Dracaufeu X",
+      "cout": 24.99,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "25/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Pokebox Mega Dracaufeu X"
+    },
+    {
+      "id": "1775077568981",
+      "type": "Pokemon",
+      "item": "Pokebox Mega-Dracaufeu Y",
+      "cout": 24.99,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "25/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Pokebox Mega Dracaufeu Y"
+    },
+    {
+      "id": "1775077568982",
+      "type": "Pokemon",
+      "item": "Mini-boîte Méga-Évolution – Héros Transcendants – Mélofée et Germignon",
+      "cout": 11.99,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "24/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Mini Tin Méga Évolution Héros Transcendants Mélofée et Germignon"
+    },
+    {
+      "id": "1775077568983",
+      "type": "Pokemon",
+      "item": "Mini-boîte Méga-Évolution – Héros Transcendants – Togepi et Kaiminus",
+      "cout": 11.99,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "24/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Mini Tin Méga Évolution Héros Transcendants Togepi et Kaiminus"
+    },
+    {
+      "id": "1775077568984",
+      "type": "Pokemon",
+      "item": "Mini-boîte Méga-Évolution – Héros Transcendants – pikachu Gruikui",
+      "cout": 11.99,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "24/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Mini Tin Méga Évolution Héros Transcendants pikachu Gruikui"
+    },
+    {
+      "id": "1775077568985",
+      "type": "Pokemon",
+      "item": "Mini-boîte Méga-Évolution – Héros Transcendants – Zorua et Nicosie",
+      "cout": 11.99,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "24/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Mini Tin Méga Évolution Héros Transcendants Zorua et Nicosie"
+    },
+    {
+      "id": "1775077568986",
+      "type": "Pokemon",
+      "item": "Mini-boîte Méga-Évolution – Héros Transcendants – riolu et Darrumarond",
+      "cout": 11.99,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "24/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Mini Tin Méga Évolution Héros Transcendants riolu et Darrumarond"
+    },
+    {
+      "id": "1775077568975",
+      "type": "Pokemon",
+      "item": "Mini Tin Évolution Prismatique Nymphali (EV8.5)",
+      "cout": 11.99,
+      "stk": "5",
+      "site": "Amazon",
+      "dt": "14/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Mini Tin Évolution Prismatique Nymphali"
+    },
+    {
+      "id": "1775077568987",
+      "type": "Pokemon",
+      "item": "Coffret Journée Pokémon Day 26",
+      "cout": 19.99,
+      "stk": "5",
+      "site": "Cultura",
+      "dt": "02/02/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Journée Pokémon Day 26"
+    },
+    {
+      "id": "1775077568988",
+      "type": "Pokemon",
+      "item": "2 booster Flammes Obsiennes (loose sortie coffret)",
+      "cout": 0,
+      "stk": "Tiroir",
+      "site": "Coffret",
+      "dt": "01/02/26",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "2 booster Flammes Obsiennes"
+    },
+    {
+      "id": "1775077568978",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Méga Evolution Flammes Fantasmagoriques ME02",
+      "cout": 59.99,
+      "stk": "5",
+      "site": "Micromania",
+      "dt": "27/01/2026",
+      "le": null,
+      "ebay": null,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [],
+      "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
+    },
+    {
+      "id": "1775077568974",
+      "type": "Pokemon",
+      "item": "Bundle ME02 Flammes Fantasmagoriques",
+      "cout": 35.94,
+      "stk": "2",
+      "site": "Amazon",
+      "dt": "23/12/2025",
+      "le": null,
+      "ebay": 50,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/12/2025",
+          "prix": 50,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Flammes Fantasmagoriques"
+    },
+    {
+      "id": "1775077568972",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Méga Evolution Flammes Fantasmagoriques ME02",
+      "cout": 55.99,
+      "stk": "5",
+      "site": "Carrefour",
+      "dt": "20/11/2025",
+      "le": null,
+      "ebay": 80,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/12/2025",
+          "prix": 80,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
+    },
+    {
+      "id": "1775077568973",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Méga Evolution Flammes Fantasmagoriques ME02",
+      "cout": 55.99,
+      "stk": "5",
+      "site": "Carrefour",
+      "dt": "20/11/2025",
+      "le": null,
+      "ebay": 80,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/12/2025",
+          "prix": 80,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
+    },
+    {
+      "id": "1775077568965",
+      "type": "Pokemon",
+      "item": "Collection Ultra-Premium Mega Dracaufeu X ex",
+      "cout": 154.99,
+      "stk": "1",
+      "site": "Amazon",
+      "dt": "14/11/2025",
+      "le": null,
+      "ebay": 170,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/12/2025",
+          "prix": 170,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Collection Ultra Premium Mega Dracaufeu X"
+    },
+    {
+      "id": "1775077568966",
+      "type": "Pokemon",
+      "item": "Collection Ultra-Premium Mega Dracaufeu X ex",
+      "cout": 160,
+      "stk": "1",
+      "site": "King Jouet",
+      "dt": "14/11/2025",
+      "le": null,
+      "ebay": 170,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/12/2025",
+          "prix": 170,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Collection Ultra Premium Mega Dracaufeu X"
+    },
+    {
+      "id": "1775077568969",
+      "type": "Pokemon",
+      "item": "Arset Flammes obsidiennes loose (sortie d'UPC mega dracaufeu)",
+      "cout": 37.77777777777778,
+      "stk": "Tiroir",
+      "site": "nan",
+      "dt": "14/11/2025",
+      "le": null,
+      "ebay": 25,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/12/2025",
+          "prix": 25,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Arset Flammes obsidiennes loose"
+    },
+    {
+      "id": "1775077568970",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Méga Evolution (Mega Lucario) ME01",
+      "cout": 70,
+      "stk": "Tiroir",
+      "site": "Leboncoin",
+      "dt": "14/11/2025",
+      "le": null,
+      "ebay": 80,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/12/2025",
+          "prix": 80,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Méga Evolution"
+    },
+    {
+      "id": "1775077568971",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Méga Evolution (Mega Gardevoir) ME01",
+      "cout": 70,
+      "stk": "5",
+      "site": "Leboncoin",
+      "dt": "14/11/2025",
+      "le": null,
+      "ebay": 80,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/12/2025",
+          "prix": 80,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Méga Evolution"
+    },
+    {
+      "id": "1775077568964",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Aventure Ensemble EV09",
+      "cout": 59.99,
+      "stk": "Tiroir",
+      "site": "Carrefour",
+      "dt": "02/11/2025",
+      "le": null,
+      "ebay": 70,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 70,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Aventure Ensemble"
+    },
+    {
+      "id": "1775077568967",
+      "type": "Pokemon",
+      "item": "Bundle EV10.5 Flammes Blanches",
+      "cout": 35.94,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "09/09/2025",
+      "le": null,
+      "ebay": 50,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/12/2025",
+          "prix": 50,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Flammes Blanches"
+    },
+    {
+      "id": "1775077568968",
+      "type": "Pokemon",
+      "item": "Bundle EV10.5 Foudre Noire",
+      "cout": 35.94,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "09/09/2025",
+      "le": null,
+      "ebay": 40,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/12/2025",
+          "prix": 40,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Foudre Noire"
+    },
+    {
+      "id": "1775077568960",
+      "type": "Pokemon",
+      "item": "Bundle EV10.5 Flammes Blanches",
+      "cout": 35.99,
+      "stk": "3",
+      "site": "FNAC",
+      "dt": "31/08/2025",
+      "le": null,
+      "ebay": 50,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 50,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Flammes Blanches"
+    },
+    {
+      "id": "1775077568961",
+      "type": "Pokemon",
+      "item": "Bundle EV10.5 Flammes Blanches",
+      "cout": 35.94,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "31/08/2025",
+      "le": null,
+      "ebay": 50,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 50,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Flammes Blanches"
+    },
+    {
+      "id": "1775077568962",
+      "type": "Pokemon",
+      "item": "Bundle EV10.5 Foudre Noire",
+      "cout": 35.99,
+      "stk": "3",
+      "site": "FNAC",
+      "dt": "31/08/2025",
+      "le": null,
+      "ebay": 40,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 40,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Foudre Noire"
+    },
+    {
+      "id": "1775077568963",
+      "type": "Pokemon",
+      "item": "Bundle EV10.5 Foudre Noire",
+      "cout": 35.94,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "31/08/2025",
+      "le": null,
+      "ebay": 40,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 40,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Foudre Noire"
+    },
+    {
+      "id": "1775077568959",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Flamme Blanche EV10.5",
+      "cout": 55.99,
+      "stk": "Tiroir",
+      "site": "Amazon",
+      "dt": "26/08/2025",
+      "le": null,
+      "ebay": 73,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 73,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Flamme Blanche"
+    },
+    {
+      "id": "1775077568949",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Flamme Blanche EV10.5",
+      "cout": 69.9,
+      "stk": "Tiroir",
+      "site": "Carrefour",
+      "dt": "18/07/2025",
+      "le": null,
+      "ebay": 70,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 70,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Flamme Blanche"
+    },
+    {
+      "id": "1775077568950",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Foudre Noire EV10.5",
+      "cout": 69.9,
+      "stk": "Tiroir",
+      "site": "Carrefour",
+      "dt": "18/07/2025",
+      "le": null,
+      "ebay": 70,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 70,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Foudre Noire"
+    },
+    {
+      "id": "1775077568946",
+      "type": "Pokemon",
+      "item": "Mini-boîte Unys – Mamanbo et Coupenotte EV10.5",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "08/07/2025",
+      "le": null,
+      "ebay": 15,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 12,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 15,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Unys Mamanbo et Coupenotte"
+    },
+    {
+      "id": "1775077568947",
+      "type": "Pokemon",
+      "item": "Mini-boîte Unys – Fragilady et Farfaduvet EV10.5",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "08/07/2025",
+      "le": null,
+      "ebay": 15,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 12,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 15,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Unys Fragilady et Farfaduvet"
+    },
+    {
+      "id": "1775077568948",
+      "type": "Pokemon",
+      "item": "Mini-boîte Unys – Crocorible et Minotaupe EV10.5",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "08/07/2025",
+      "le": null,
+      "ebay": 15,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 12,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 15,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Unys Crocorible et Minotaupe"
+    },
+    {
+      "id": "1775077568954",
+      "type": "Pokemon",
+      "item": "Mini-boîte Unys – Miasmax et Gaulet EV10.5",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "08/07/2025",
+      "le": null,
+      "ebay": 15,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 12,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 15,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Unys Miasmax et Gaulet"
+    },
+    {
+      "id": "1775077568955",
+      "type": "Pokemon",
+      "item": "Mini-boîte Unys – Pyrax et Emolga EV10.5",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "08/07/2025",
+      "le": null,
+      "ebay": 15,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 12,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 15,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Unys Pyrax et Emolga"
+    },
+    {
+      "id": "1775077568956",
+      "type": "Pokemon",
+      "item": "Mini-boîte Unys – Shaofouine et Cliticlic EV10.5",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "08/07/2025",
+      "le": null,
+      "ebay": 15,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 12,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 15,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Unys Shaofouine et Cliticlic"
+    },
+    {
+      "id": "1775077568957",
+      "type": "Pokemon",
+      "item": "Mini-boîte Unys – Ohmassacre et Mygavolt EV10.5",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "08/07/2025",
+      "le": null,
+      "ebay": 15,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 12,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 15,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Unys Ohmassacre et Mygavolt"
+    },
+    {
+      "id": "1775077568958",
+      "type": "Pokemon",
+      "item": "Mini-boîte Unys – Lugulabre et Zorua EV10.5",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "08/07/2025",
+      "le": null,
+      "ebay": 15,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 12,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 15,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Unys Lugulabre et Zorua"
+    },
+    {
+      "id": "1775077568945",
+      "type": "Pokemon",
+      "item": "Bundle Rivalités destinées (EV10)",
+      "cout": 35.94,
+      "stk": "1",
+      "site": "Amazon",
+      "dt": "16/06/2025",
+      "le": null,
+      "ebay": 60,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 60,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 60,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Rivalités destinées"
+    },
+    {
+      "id": "1775077568953",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Rivalités destinées  EV10",
+      "cout": 69.9,
+      "stk": "Tiroir",
+      "site": "Carrefour",
+      "dt": "04/06/2025",
+      "le": null,
+      "ebay": 100,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 100,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Rivalités destinées"
+    },
+    {
+      "id": "1775077568940",
+      "type": "Pokemon",
+      "item": "Display Rivalités Destinées (EV10)",
+      "cout": 215.64,
+      "stk": "5",
+      "site": "Tabac",
+      "dt": "30/05/2025",
+      "le": null,
+      "ebay": 290,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 280,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 290,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Display Rivalités Destinées"
+    },
+    {
+      "id": "1775077568941",
+      "type": "Pokemon",
+      "item": "Display Rivalités Destinées (EV10)",
+      "cout": 215.64,
+      "stk": "5",
+      "site": "Tabac",
+      "dt": "30/05/2025",
+      "le": null,
+      "ebay": 290,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 280,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 290,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Display Rivalités Destinées"
+    },
+    {
+      "id": "1775077568942",
+      "type": "Pokemon",
+      "item": "Demi-display Rivalités Destinées (EV10)",
+      "cout": 107.82,
+      "stk": "5",
+      "site": "Tabac",
+      "dt": "30/05/2025",
+      "le": null,
+      "ebay": 165,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 150,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 165,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Demi Display Rivalités Destinées"
+    },
+    {
+      "id": "1775077568943",
+      "type": "Pokemon",
+      "item": "Demi-display Rivalités Destinées (EV10)",
+      "cout": 107.82,
+      "stk": "5",
+      "site": "Tabac",
+      "dt": "30/05/2025",
+      "le": null,
+      "ebay": 165,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 150,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 165,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Demi Display Rivalités Destinées"
+    },
+    {
+      "id": "1775077568944",
+      "type": "Pokemon",
+      "item": "Bundle 151 (EV3.5)",
+      "cout": 34.99,
+      "stk": "1",
+      "site": "Carrefour",
+      "dt": "30/05/2025",
+      "le": null,
+      "ebay": 80,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 80,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle 151"
+    },
+    {
+      "id": "1775077568939",
+      "type": "Pokemon",
+      "item": "Super Premium Collection - Évolution Prismatique",
+      "cout": 129.99,
+      "stk": "3",
+      "site": "Carrefour",
+      "dt": "20/05/2025",
+      "le": null,
+      "ebay": 160,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 180,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 160,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Super Premium Collection Évolution Prismatique"
+    },
+    {
+      "id": "1775077568938",
+      "type": "Pokemon",
+      "item": "Super Premium Collection - Évolution Prismatique",
+      "cout": 114.99,
+      "stk": "3",
+      "site": "FNAC",
+      "dt": "16/05/2025",
+      "le": null,
+      "ebay": 160,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 180,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 160,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Super Premium Collection Évolution Prismatique"
+    },
+    {
+      "id": "1775077568935",
+      "type": "Pokemon",
+      "item": "Bundle 6 boosters Aventure Ensemble (EV09)",
+      "cout": 35.94,
+      "stk": "1",
+      "site": "Amazon",
+      "dt": "13/05/2025",
+      "le": null,
+      "ebay": 40,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 40,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Aventure Ensemble"
+    },
+    {
+      "id": "1775077568936",
+      "type": "Pokemon",
+      "item": "Bundle 6 boosters Aventure Ensemble (EV09)",
+      "cout": 35.94,
+      "stk": "1",
+      "site": "Amazon",
+      "dt": "13/05/2025",
+      "le": null,
+      "ebay": 40,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 40,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Aventure Ensemble"
+    },
+    {
+      "id": "1775077568937",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur D'élite - Fables Nébuleuse EV6.5",
+      "cout": 39.9,
+      "stk": "Tiroir",
+      "site": "Amazon",
+      "dt": "30/04/2025",
+      "le": null,
+      "ebay": 80,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 80,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Fables Nébuleuse"
+    },
+    {
+      "id": "1775077568934",
+      "type": "Pokemon",
+      "item": "Coffret Eaux Florissantes 151 (EV3.5)",
+      "cout": 99.99,
+      "stk": "Armoire",
+      "site": "Carrefour",
+      "dt": "25/04/2025",
+      "le": null,
+      "ebay": 155,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 150,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 155,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Eaux Florissantes 151"
+    },
+    {
+      "id": "1775077568951",
+      "type": "Pokemon",
+      "item": "Collection Spéciale Pochette - Évolution Prismatique EV8.5",
+      "cout": 36.99,
+      "stk": "2",
+      "site": "Carrefour",
+      "dt": "25/04/2025",
+      "le": null,
+      "ebay": 35,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 35,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Collection Spéciale Pochette Évolution Prismatique"
+    },
+    {
+      "id": "1775077568931",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Aventure Ensemble EV09",
+      "cout": 55.99,
+      "stk": "Tiroir",
+      "site": "Amazon",
+      "dt": "14/04/2025",
+      "le": null,
+      "ebay": 70,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/04/2025",
+          "prix": 75,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 70,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Aventure Ensemble"
+    },
+    {
+      "id": "1775077568932",
+      "type": "Pokemon",
+      "item": "Mini Tin Évolution Prismatique Noctali (EV8.5)",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "14/04/2025",
+      "le": null,
+      "ebay": 20,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/04/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 20,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 20,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Évolution Prismatique Noctali"
+    },
+    {
+      "id": "1775077568933",
+      "type": "Pokemon",
+      "item": "Display Aventure Ensemble (EV09)",
+      "cout": 240,
+      "stk": "5",
+      "site": "Leboncoin",
+      "dt": "14/04/2025",
+      "le": null,
+      "ebay": 220,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/04/2025",
+          "prix": 270,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 220,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 220,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Display Aventure Ensemble"
+    },
+    {
+      "id": "1775077568930",
+      "type": "Pokemon",
+      "item": "Display Évolution a Paldea (EV02)",
+      "cout": 225,
+      "stk": "5",
+      "site": "Vinted",
+      "dt": "11/04/2025",
+      "le": null,
+      "ebay": 250,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/04/2025",
+          "prix": 220,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 240,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 250,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Display Évolution a Paldea"
+    },
+    {
+      "id": "1775077568929",
+      "type": "Pokemon",
+      "item": "Arset Évolution a Paldea (EV02)",
+      "cout": 40.4,
+      "stk": "Tiroir",
+      "site": "Vinted",
+      "dt": "19/03/2025",
+      "le": null,
+      "ebay": 50,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/04/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 50,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Arset Évolution a Paldea"
+    },
+    {
+      "id": "1775077568928",
+      "type": "Pokemon",
+      "item": "Display Stars Étincelantes (EB09)",
+      "cout": 414,
+      "stk": "Armoire",
+      "site": "Vinted",
+      "dt": "18/03/2025",
+      "le": null,
+      "ebay": 370,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/04/2025",
+          "prix": 400,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 350,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 370,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Display Stars Étincelantes"
+    },
+    {
+      "id": "1775077568927",
+      "type": "Pokemon",
+      "item": "Coffret Eaux Florissantes 151 (EV3.5)",
+      "cout": 99.99,
+      "stk": "Armoire",
+      "site": "Amazon",
+      "dt": "13/03/2025",
+      "le": null,
+      "ebay": 155,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "27/04/2025",
+          "prix": 120,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 150,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 155,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Eaux Florissantes 151"
+    },
+    {
+      "id": "1775077568952",
+      "type": "Pokemon",
+      "item": "Boîte Surprise – Évolutions Prismatiques EV8.5",
+      "cout": 33.99,
+      "stk": "6",
+      "site": "Amazon",
+      "dt": "06/03/2025",
+      "le": null,
+      "ebay": 45,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "09/11/2025",
+          "prix": 45,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 45,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Boîte Surprise Évolutions Prismatiques"
+    },
+    {
+      "id": "1775077568913",
+      "type": "Pokemon",
+      "item": "Pokebox Xerneas Ex",
+      "cout": 25.99,
+      "stk": "6",
+      "site": "FNAC",
+      "dt": "21/02/2025",
+      "le": null,
+      "ebay": 30,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 30,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Pokebox Xerneas"
+    },
+    {
+      "id": "1775077568914",
+      "type": "Pokemon",
+      "item": "Pokebox Kyogre Ex",
+      "cout": 25.99,
+      "stk": "6",
+      "site": "FNAC",
+      "dt": "21/02/2025",
+      "le": null,
+      "ebay": 30,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 30,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Pokebox Kyogre"
+    },
+    {
+      "id": "1775077568915",
+      "type": "Pokemon",
+      "item": "Pokebox Dialga Ex",
+      "cout": 25.99,
+      "stk": "6",
+      "site": "FNAC",
+      "dt": "21/02/2025",
+      "le": null,
+      "ebay": 30,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 30,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Pokebox Dialga"
+    },
+    {
+      "id": "1775077568916",
+      "type": "Pokemon",
+      "item": "Pokebox Xerneas Ex",
+      "cout": 28.65,
+      "stk": "A vendre",
+      "site": "JoueClub",
+      "dt": "21/02/2025",
+      "le": null,
+      "ebay": 30,
+      "pv": null,
+      "statut": "avendre",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 30,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Pokebox Xerneas"
+    },
+    {
+      "id": "1775077568921",
+      "type": "Pokemon",
+      "item": "Mini Tin Évolution Prismatique Mentali (EV8.5)",
+      "cout": 11.99,
+      "stk": "Vendu",
+      "site": "Amazon",
+      "dt": "21/02/2025",
+      "le": null,
+      "ebay": 25,
+      "pv": 20,
+      "statut": "vendu",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 25,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Évolution Prismatique Mentali"
+    },
+    {
+      "id": "1775077568922",
+      "type": "Pokemon",
+      "item": "Mini Tin Évolution Prismatique Voltali (EV8.5)",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "21/02/2025",
+      "le": null,
+      "ebay": 20,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 20,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 20,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Évolution Prismatique Voltali"
+    },
+    {
+      "id": "1775077568923",
+      "type": "Pokemon",
+      "item": "Mini Tin Évolution Prismatique Aquali (EV8.5)",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "21/02/2025",
+      "le": null,
+      "ebay": 20,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 20,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 20,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Évolution Prismatique Aquali"
+    },
+    {
+      "id": "1775077568924",
+      "type": "Pokemon",
+      "item": "Mini Tin Évolution Prismatique Givrali (EV8.5)",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "21/02/2025",
+      "le": null,
+      "ebay": 20,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 20,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 20,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Évolution Prismatique Givrali"
+    },
+    {
+      "id": "1775077568925",
+      "type": "Pokemon",
+      "item": "Mini Tin Évolution Prismatique Pyroli (EV8.5)",
+      "cout": 11.99,
+      "stk": "Vendu",
+      "site": "Amazon",
+      "dt": "21/02/2025",
+      "le": null,
+      "ebay": 25,
+      "pv": 20,
+      "statut": "vendu",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 25,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Évolution Prismatique Pyroli"
+    },
+    {
+      "id": "1775077568926",
+      "type": "Pokemon",
+      "item": "Mini Tin Évolution Prismatique Phyllali (EV8.5)",
+      "cout": 11.99,
+      "stk": "3",
+      "site": "Amazon",
+      "dt": "21/02/2025",
+      "le": null,
+      "ebay": 20,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 20,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 20,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Évolution Prismatique Phyllali"
+    },
+    {
+      "id": "1775077568912",
+      "type": "Pokemon",
+      "item": "Display Faille paradoxe",
+      "cout": 176.31,
+      "stk": "5",
+      "site": "Amazon it",
+      "dt": "14/02/2025",
+      "le": null,
+      "ebay": 240,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 240,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 240,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 260,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 240,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Display Faille paradoxe"
+    },
+    {
+      "id": "1775077568906",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite -Évolution Prismatique EV8.5",
+      "cout": 55.99,
+      "stk": "Tiroir",
+      "site": "Carrefour",
+      "dt": "07/02/2025",
+      "le": null,
+      "ebay": 95,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 120,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 95,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
+    },
+    {
+      "id": "1775077568907",
+      "type": "Pokemon",
+      "item": "Mini Tin Évolution Prismatique Mentali (EV8.5)",
+      "cout": 14.49,
+      "stk": "3",
+      "site": "SmythToys",
+      "dt": "07/02/2025",
+      "le": null,
+      "ebay": 20,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 20,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 20,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Évolution Prismatique Mentali"
+    },
+    {
+      "id": "1775077568908",
+      "type": "Pokemon",
+      "item": "Mini Tin Évolution Prismatique Pyroli (EV8.5)",
+      "cout": 14.49,
+      "stk": "3",
+      "site": "SmythToys",
+      "dt": "07/02/2025",
+      "le": null,
+      "ebay": 20,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 20,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 20,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Mini Tin Évolution Prismatique Pyroli"
+    },
+    {
+      "id": "1775077568900",
+      "type": "Pokemon",
+      "item": "Collection Classeur - Évolution Prismatique",
+      "cout": 37.99,
+      "stk": "2",
+      "site": "Amazon",
+      "dt": "31/01/2025",
+      "le": null,
+      "ebay": 55,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 65,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 60,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 55,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Collection Classeur Évolution Prismatique"
+    },
+    {
+      "id": "1775077568901",
+      "type": "Pokemon",
+      "item": "Collection Classeur - Évolution Prismatique",
+      "cout": 37.99,
+      "stk": "A vendre",
+      "site": "Amazon",
+      "dt": "31/01/2025",
+      "le": null,
+      "ebay": 55,
+      "pv": null,
+      "statut": "avendre",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 65,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 60,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 55,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Collection Classeur Évolution Prismatique"
+    },
+    {
+      "id": "1775077568917",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite -Évolution Prismatique EV8.5",
+      "cout": 55.99,
+      "stk": "Tiroir",
+      "site": "Amazon",
+      "dt": "23/01/2025",
+      "le": null,
+      "ebay": 95,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 120,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 95,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
+    },
+    {
+      "id": "1775077568918",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite -Évolution Prismatique EV8.5",
+      "cout": 55.99,
+      "stk": "Tiroir",
+      "site": "Amazon",
+      "dt": "23/01/2025",
+      "le": null,
+      "ebay": 95,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 120,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 95,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
+    },
+    {
+      "id": "1775077568902",
+      "type": "Pokemon",
+      "item": "Tripack Phyllali - Évolution Prismatique",
+      "cout": 19.99,
+      "stk": "2",
+      "site": "Amazon",
+      "dt": "21/01/2025",
+      "le": null,
+      "ebay": 25,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 25,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Tripack Phyllali Évolution Prismatique"
+    },
+    {
+      "id": "1775077568919",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite -Évolution Prismatique EV8.5 EN",
+      "cout": 53.62,
+      "stk": "Vendu",
+      "site": "Amazon",
+      "dt": "19/01/2025",
+      "le": null,
+      "ebay": 100,
+      "pv": 100,
+      "statut": "vendu",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 100,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Évolution Prismatique EN"
+    },
+    {
+      "id": "1775077568920",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite -Évolution Prismatique EV8.5 EN",
+      "cout": 53.62,
+      "stk": "Vendu",
+      "site": "Amazon",
+      "dt": "19/01/2025",
+      "le": null,
+      "ebay": 100,
+      "pv": 100,
+      "statut": "vendu",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 100,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Évolution Prismatique EN"
+    },
+    {
+      "id": "1775077568899",
+      "type": "Pokemon",
+      "item": "Tripack Collection Poster - Évolution Prismatique",
+      "cout": 19.99,
+      "stk": "2",
+      "site": "Amazon",
+      "dt": "17/01/2025",
+      "le": null,
+      "ebay": 25,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 25,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Tripack Collection Poster Évolution Prismatique"
+    },
+    {
+      "id": "1775077568903",
+      "type": "Pokemon",
+      "item": "Tripack Givrali - Évolution Prismatique",
+      "cout": 19.99,
+      "stk": "2",
+      "site": "Amazon",
+      "dt": "17/01/2025",
+      "le": null,
+      "ebay": 25,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 25,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Tripack Givrali Évolution Prismatique"
+    },
+    {
+      "id": "1775077568911",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite -Évolution Prismatique EV8.5",
+      "cout": 54.99,
+      "stk": "Tiroir",
+      "site": "Auchan",
+      "dt": "09/01/2025",
+      "le": null,
+      "ebay": 95,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 120,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 95,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
+    },
+    {
+      "id": "1775077568909",
+      "type": "Pokemon",
+      "item": "Pokebox Serpente-Eau EX",
+      "cout": 25.99,
+      "stk": "5",
+      "site": "Auchan",
+      "dt": "26/12/2024",
+      "le": null,
+      "ebay": 27,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 27,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Pokebox Serpente Eau"
+    },
+    {
+      "id": "1775077568910",
+      "type": "Pokemon",
+      "item": "Pokebox Vert-de-Fer EX",
+      "cout": 25.99,
+      "stk": "5",
+      "site": "Auchan",
+      "dt": "26/12/2024",
+      "le": null,
+      "ebay": 27,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 25,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 27,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Pokebox Vert de Fer"
+    },
+    {
+      "id": "1775077568897",
+      "type": "Pokemon",
+      "item": "Arset Booster blister etincelle deferlante",
+      "cout": 24,
+      "stk": "Tiroir",
+      "site": "Furet du Nord",
+      "dt": "07/12/2024",
+      "le": null,
+      "ebay": 40,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 40,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Arset Booster blister etincelle deferlante"
+    },
+    {
+      "id": "1775077568898",
+      "type": "Pokemon",
+      "item": "Display Etincelles Déferlantes (EV08)",
+      "cout": 240,
+      "stk": "5",
+      "site": "Leboncoin",
+      "dt": "06/12/2024",
+      "le": null,
+      "ebay": 240,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 330,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 280,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 240,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 240,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Display Etincelles Déferlantes"
+    },
+    {
+      "id": "1775077568895",
+      "type": "Pokemon",
+      "item": "Coffre aux Trésors Pikachu teracristal",
+      "cout": 26,
+      "stk": "4",
+      "site": "Carrefour",
+      "dt": "28/11/2024",
+      "le": null,
+      "ebay": 50,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 45,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 50,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffre aux Trésors Pikachu teracristal"
+    },
+    {
+      "id": "1775077568896",
+      "type": "Pokemon",
+      "item": "Coffre aux Trésors Pikachu teracristal",
+      "cout": 26,
+      "stk": "A vendre",
+      "site": "Carrefour",
+      "dt": "28/11/2024",
+      "le": null,
+      "ebay": 50,
+      "pv": null,
+      "statut": "avendre",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 45,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 50,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffre aux Trésors Pikachu teracristal"
+    },
+    {
+      "id": "1775077568893",
+      "type": "Pokemon",
+      "item": "Bundle 6 boosters Etincelles déferlante (EV08)",
+      "cout": 35.94,
+      "stk": "1",
+      "site": "Amazon",
+      "dt": "23/10/2024",
+      "le": null,
+      "ebay": 60,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 60,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 60,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Etincelles déferlante"
+    },
+    {
+      "id": "1775077568894",
+      "type": "Pokemon",
+      "item": "Bundle 6 boosters Etincelles déferlante (EV08)",
+      "cout": 35.94,
+      "stk": "1",
+      "site": "Amazon",
+      "dt": "23/10/2024",
+      "le": null,
+      "ebay": 60,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 70,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 60,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 60,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Bundle Etincelles déferlante"
+    },
+    {
+      "id": "1775077568904",
+      "type": "Pokemon",
+      "item": "12 booster Trick or Trade 2024",
+      "cout": 8.12,
+      "stk": "Tiroir",
+      "site": "Amazon",
+      "dt": "09/10/2024",
+      "le": null,
+      "ebay": 15,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 10,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 10,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 10,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 15,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "12 booster Trick or Trade 2024"
+    },
+    {
+      "id": "1775077568886",
+      "type": "Pokemon",
+      "item": "Carton 36 booster blister - Flammes obsidiennes (EV03)",
+      "cout": 180,
+      "stk": "2",
+      "site": "Leboncoin",
+      "dt": "08/10/2024",
+      "le": null,
+      "ebay": 288,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 360,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 360,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 360,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 288,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Display Flammes obsidiennes"
+    },
+    {
+      "id": "1775077568887",
+      "type": "Pokemon",
+      "item": "Coffret Nostenfer Destinées Radieuses (EB4.5)",
+      "cout": 85,
+      "stk": "2",
+      "site": "Leboncoin",
+      "dt": "08/10/2024",
+      "le": null,
+      "ebay": 125,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 115,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 120,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 125,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Nostenfer Destinées Radieuses"
+    },
+    {
+      "id": "1775077568888",
+      "type": "Pokemon",
+      "item": "Coffret Lanssorien Destinées Radieuses (EB4.5)",
+      "cout": 80,
+      "stk": "2",
+      "site": "Leboncoin",
+      "dt": "08/10/2024",
+      "le": null,
+      "ebay": 140,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 115,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 130,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 140,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Lanssorien Destinées Radieuses"
+    },
+    {
+      "id": "1775077568889",
+      "type": "Pokemon",
+      "item": "Coffret Rosemary La Voie du Maitre (EB3.5)",
+      "cout": 70,
+      "stk": "4",
+      "site": "Leboncoin",
+      "dt": "08/10/2024",
+      "le": null,
+      "ebay": 80,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 150,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 80,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Rosemary La Voie du Maitre"
+    },
+    {
+      "id": "1775077568890",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Pokemon Go (EB10.5)",
+      "cout": 60,
+      "stk": "Tiroir",
+      "site": "Leboncoin",
+      "dt": "08/10/2024",
+      "le": null,
+      "ebay": 120,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 120,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 120,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Pokemon Go"
+    },
+    {
+      "id": "1775077568891",
+      "type": "Pokemon",
+      "item": "Coffret de collection - Valisette Evoli",
+      "cout": 50,
+      "stk": "4",
+      "site": "Leboncoin",
+      "dt": "08/10/2024",
+      "le": null,
+      "ebay": 90,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 75,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 130,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 90,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 90,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret de collection Valisette Evoli"
+    },
+    {
+      "id": "1775077568892",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Etincelles Déferlantes (EV08)",
+      "cout": 46,
+      "stk": "Tiroir",
+      "site": "Amazon",
+      "dt": "23/09/2024",
+      "le": null,
+      "ebay": 105,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 105,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Etincelles Déferlantes"
+    },
+    {
+      "id": "1775077568905",
+      "type": "Pokemon",
+      "item": "Arset Écarlate et Violet EV01",
+      "cout": 10,
+      "stk": "Tiroir",
+      "site": "Carrefour",
+      "dt": "15/07/2024",
+      "le": null,
+      "ebay": 35,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 30,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 35,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Arset Écarlate et Violet"
+    },
+    {
+      "id": "1775077568865",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Forces temporelles EV05 (Serpente-Eau)",
+      "cout": 47,
+      "stk": "Tiroir",
+      "site": "GM Card toys",
+      "dt": "03/03/2024",
+      "le": null,
+      "ebay": 130,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 120,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 130,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 130,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Forces temporelles"
+    },
+    {
+      "id": "1775077568866",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Forces temporelles EV05 (Vert-de-Fer)",
+      "cout": 47,
+      "stk": "Tiroir",
+      "site": "GM Card toys",
+      "dt": "03/03/2024",
+      "le": null,
+      "ebay": 90,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 80,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 90,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 90,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 90,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Forces temporelles"
+    },
+    {
+      "id": "1775077568863",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Faille Paradoxe Garde-de-Fer EV04",
+      "cout": 54,
+      "stk": "Tiroir",
+      "site": "Vinted",
+      "dt": "01/02/2024",
+      "le": null,
+      "ebay": 95,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 90,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 90,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 95,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Faille Paradoxe Garde de Fer"
+    },
+    {
+      "id": "1775077568864",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Faille Paradoxe Rugit-Lune EV04",
+      "cout": 54,
+      "stk": "Tiroir",
+      "site": "Vinted",
+      "dt": "01/02/2024",
+      "le": null,
+      "ebay": 115,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 90,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 90,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 115,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Faille Paradoxe Rugit Lune"
+    },
+    {
+      "id": "1775077568860",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Tempete argentée EB12",
+      "cout": 66,
+      "stk": "Tiroir",
+      "site": "Vinted",
+      "dt": "27/01/2024",
+      "le": null,
+      "ebay": 180,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 180,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 200,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 200,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 180,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Tempete argentée"
+    },
+    {
+      "id": "1775077568862",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Destinées de paldéa EV4.5",
+      "cout": 60,
+      "stk": "Tiroir",
+      "site": "Auchan",
+      "dt": "24/01/2024",
+      "le": null,
+      "ebay": 125,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 125,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Destinées de paldéa"
+    },
+    {
+      "id": "1775077568859",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Regne de glace Sylveroy du Froid EB06",
+      "cout": 55,
+      "stk": "Tiroir",
+      "site": "Leboncoin",
+      "dt": "21/01/2024",
+      "le": null,
+      "ebay": 170,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 160,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 160,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 200,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 170,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Regne de glace Sylveroy du Froid"
+    },
+    {
+      "id": "1775077568861",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Origine Perdue EB11",
+      "cout": 70,
+      "stk": "Tiroir",
+      "site": "Vinted",
+      "dt": "21/01/2024",
+      "le": null,
+      "ebay": 290,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 270,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 270,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 270,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 290,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Origine Perdue"
+    },
+    {
+      "id": "1775077568858",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Stars étincelantes",
+      "cout": 75,
+      "stk": "Tiroir",
+      "site": "Leboncoin",
+      "dt": "10/01/2024",
+      "le": null,
+      "ebay": 200,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 240,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 230,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 180,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 200,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Stars étincelantes"
+    },
+    {
+      "id": "1775077568856",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Flammes Obsidiennes EV03",
+      "cout": 59,
+      "stk": "Tiroir",
+      "site": "Vinted",
+      "dt": "07/01/2024",
+      "le": null,
+      "ebay": 190,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 160,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 180,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 160,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 190,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Flammes Obsidiennes"
+    },
+    {
+      "id": "1775077568850",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d'Elite - Poing de Fusion EB08",
+      "cout": 60,
+      "stk": "Tiroir",
+      "site": "Leboncoin",
+      "dt": "04/01/2024",
+      "le": null,
+      "ebay": 300,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 230,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 210,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 260,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 300,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Poing de Fusion"
+    },
+    {
+      "id": "1775077568851",
+      "type": "Pokemon",
+      "item": "Coffret Zoroark-GX - Légendes Brillantes SL3.5",
+      "cout": 45,
+      "stk": "1",
+      "site": "Leboncoin",
+      "dt": "04/01/2024",
+      "le": null,
+      "ebay": 155,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 160,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 160,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 155,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Zoroark Légendes Brillantes"
+    },
+    {
+      "id": "1775077568852",
+      "type": "Pokemon",
+      "item": "Coffret Légendes de Johto GX",
+      "cout": 60,
+      "stk": "1",
+      "site": "Leboncoin",
+      "dt": "04/01/2024",
+      "le": null,
+      "ebay": 180,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 130,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 150,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 180,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 180,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Légendes de Johto"
+    },
+    {
+      "id": "1775077568853",
+      "type": "Pokemon",
+      "item": "Coffret Darkrai-GX - Légendes Brillantes SL3.5",
+      "cout": 45,
+      "stk": "1",
+      "site": "Leboncoin",
+      "dt": "04/01/2024",
+      "le": null,
+      "ebay": 150,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 110,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 160,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 150,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 150,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Darkrai Légendes Brillantes"
+    },
+    {
+      "id": "1775077568854",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Ecarlate et Violet EV01 (Koraidon)",
+      "cout": 43,
+      "stk": "Tiroir",
+      "site": "Vinted",
+      "dt": "04/01/2024",
+      "le": null,
+      "ebay": 175,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 140,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 170,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 175,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Ecarlate et Violet"
+    },
+    {
+      "id": "1775077568855",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Ecarlate et Violet EV01 (Miraidon)",
+      "cout": 43,
+      "stk": "Tiroir",
+      "site": "Vinted",
+      "dt": "04/01/2024",
+      "le": null,
+      "ebay": 170,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 100,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 150,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 140,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 170,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Ecarlate et Violet"
+    },
+    {
+      "id": "1775077568857",
+      "type": "Pokemon",
+      "item": "Coffret Collection Premium Dracaufeu Ex",
+      "cout": 46,
+      "stk": "4",
+      "site": "Vinted",
+      "dt": "01/01/2024",
+      "le": null,
+      "ebay": 55,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 60,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 55,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Collection Premium Dracaufeu"
+    },
+    {
+      "id": "1775077568874",
+      "type": "Pokemon",
+      "item": "Coffret Pokémon Fulgudog-V",
+      "cout": 25,
+      "stk": "4",
+      "site": "Auchan",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 65,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 65,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 65,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 65,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Pokémon Fulgudog"
+    },
+    {
+      "id": "1775077568875",
+      "type": "Pokemon",
+      "item": "Coffret Pokémon Fulgudog-V",
+      "cout": 25,
+      "stk": "4",
+      "site": "Auchan",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 65,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 65,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 65,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 65,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Pokémon Fulgudog"
+    },
+    {
+      "id": "1775077568876",
+      "type": "Pokemon",
+      "item": "Coffret Destinées Radieuses Pikachu-V EB4.5",
+      "cout": 30,
+      "stk": "1",
+      "site": "Auchan",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 65,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 55,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 55,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 65,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 65,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Destinées Radieuses Pikachu"
+    },
+    {
+      "id": "1775077568877",
+      "type": "Pokemon",
+      "item": "Coffret Destinées Radieuses Pikachu-V EB4.5",
+      "cout": 30,
+      "stk": "1",
+      "site": "Auchan",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 65,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 55,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 55,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 65,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 65,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Destinées Radieuses Pikachu"
+    },
+    {
+      "id": "1775077568878",
+      "type": "Pokemon",
+      "item": "Pokebox Destinées de Paldea – Dracaufeu-ex",
+      "cout": 26,
+      "stk": "4",
+      "site": "Ne sait pas",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 55,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 55,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 55,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 55,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Pokebox Destinées de Paldea Dracaufeu"
+    },
+    {
+      "id": "1775077568879",
+      "type": "Pokemon",
+      "item": "Pokebox Destinées de Paldea – Dracaufeu-ex",
+      "cout": 26,
+      "stk": "4",
+      "site": "Ne sait pas",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 55,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 50,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 55,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 55,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 55,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Pokebox Destinées de Paldea Dracaufeu"
+    },
+    {
+      "id": "1775077568880",
+      "type": "Pokemon",
+      "item": "Pokébox Pokémon GO - Pikachu",
+      "cout": 20,
+      "stk": "4",
+      "site": "Ne sait pas",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 30,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 40,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 35,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 30,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Pokebox Pokémon GO Pikachu"
+    },
+    {
+      "id": "1775077568881",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Mascarade Crépusculaire EV06",
+      "cout": 50,
+      "stk": "Tiroir",
+      "site": "Ne sait pas",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 90,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 75,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 80,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 80,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 90,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Mascarade Crépusculaire"
+    },
+    {
+      "id": "1775077568882",
+      "type": "Pokemon",
+      "item": "Coffret Dresseur d’Elite - Couronne Stellaire EV07",
+      "cout": 50,
+      "stk": "Tiroir",
+      "site": "Ne sait pas",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 85,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 65,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 80,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 85,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Dresseur Elite Couronne Stellaire"
+    },
+    {
+      "id": "1775077568883",
+      "type": "Pokemon",
+      "item": "Display – Mini Tin 151 (EV03.5)",
+      "cout": 220,
+      "stk": "3",
+      "site": "Leboncoin",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 270,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 300,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 300,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 315,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 270,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Display Mini Tin 151"
+    },
+    {
+      "id": "1775077568884",
+      "type": "Pokemon",
+      "item": "Coffret Collection Super-Premium Dracaufeu-ex",
+      "cout": 85,
+      "stk": "2",
+      "site": "GM Card toys",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 90,
+      "pv": null,
+      "statut": "stock",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 90,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Collection Super Premium Dracaufeu"
+    },
+    {
+      "id": "1775077568885",
+      "type": "Pokemon",
+      "item": "Coffret Collection Super-Premium Dracaufeu-ex",
+      "cout": 85,
+      "stk": "A vendre",
+      "site": "Amazon",
+      "dt": "01/01/24",
+      "le": null,
+      "ebay": 90,
+      "pv": null,
+      "statut": "avendre",
+      "cotes": [
+        {
+          "date": "22/02/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "27/04/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "09/11/2025",
+          "prix": 85,
+          "source": "import"
+        },
+        {
+          "date": "27/12/2025",
+          "prix": 90,
+          "source": "import"
+        }
+      ],
+      "ebayQ": "Coffret Collection Super Premium Dracaufeu"
+    }
+  ],
+  "cat": [
+    "12 booster Trick or Trade 2024",
+    "2 booster Flammes Obsiennes (loose sortie coffret)",
+    "2025 Topps Disneyland 70th Anniversary - Hobby Box",
+    "2026 Topps Brooklyn Collection - Hobby Box",
+    "Arset Booster blister etincelle deferlante",
+    "Arset Flammes obsidiennes loose (sortie d'UPC mega dracaufeu)",
+    "Arset Écarlate et Violet EV01",
+    "Arset Évolution a Paldea (EV02)",
+    "Boîte Surprise – Évolutions Prismatiques EV8.5",
+    "Bundle 151 (EV3.5)",
+    "Bundle 6 Boosters - Pokemon - Me 3 Equilibre Parfait",
+    "Bundle 6 boosters Aventure Ensemble (EV09)",
+    "Bundle 6 boosters Etincelles déferlante (EV08)",
+    "Bundle EV10.5 Flammes Blanches",
+    "Bundle EV10.5 Foudre Noire",
+    "Bundle ME02 Flammes Fantasmagoriques",
+    "Bundle Rivalités destinées (EV10)",
+    "Carton 36 booster blister - Flammes obsidiennes (EV03)",
+    "Coffre aux Trésors Pikachu teracristal",
+    "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Serie 1",
+    "Coffret Collection Premium Dracaufeu Ex",
+    "Coffret Collection Super-Premium Dracaufeu-ex",
+    "Coffret Darkrai-GX - Légendes Brillantes SL3.5",
+    "Coffret Destinées Radieuses Pikachu-V EB4.5",
+    "Coffret Dresseur D'elite - Pokemon - Me 3 Equilibre Parfait",
+    "Coffret Dresseur D'élite - Fables Nébuleuse EV6.5",
+    "Coffret Dresseur d'Elite - Aventure Ensemble EV09",
+    "Coffret Dresseur d'Elite - Couronne Stellaire EV07",
+    "Coffret Dresseur d'Elite - Destinées de paldéa EV4.5",
+    "Coffret Dresseur d'Elite - Ecarlate et Violet EV01 (Koraidon)",
+    "Coffret Dresseur d'Elite - Ecarlate et Violet EV01 (Miraidon)",
+    "Coffret Dresseur d'Elite - Etincelles Déferlantes (EV08)",
+    "Coffret Dresseur d'Elite - Faille Paradoxe Garde-de-Fer EV04",
+    "Coffret Dresseur d'Elite - Faille Paradoxe Rugit-Lune EV04",
+    "Coffret Dresseur d'Elite - Flamme Blanche EV10.5",
+    "Coffret Dresseur d'Elite - Flammes Obsidiennes EV03",
+    "Coffret Dresseur d'Elite - Forces temporelles EV05 (Serpente-Eau)",
+    "Coffret Dresseur d'Elite - Forces temporelles EV05 (Vert-de-Fer)",
+    "Coffret Dresseur d'Elite - Foudre Noire EV10.5",
+    "Coffret Dresseur d'Elite - Mascarade Crépusculaire EV06",
+    "Coffret Dresseur d'Elite - Méga Evolution (Mega Gardevoir) ME01",
+    "Coffret Dresseur d'Elite - Méga Evolution (Mega Lucario) ME01",
+    "Coffret Dresseur d'Elite - Méga Evolution Flammes Fantasmagoriques ME02",
+    "Coffret Dresseur d'Elite - Origine Perdue EB11",
+    "Coffret Dresseur d'Elite - Poing de Fusion EB08",
+    "Coffret Dresseur d'Elite - Pokemon Go (EB10.5)",
+    "Coffret Dresseur d'Elite - Regne de glace Sylveroy du Froid EB06",
+    "Coffret Dresseur d'Elite - Rivalités destinées EV10",
+    "Coffret Dresseur d'Elite - Stars étincelantes",
+    "Coffret Dresseur d'Elite - Tempete argentée EB12",
+    "Coffret Dresseur d'Elite -Évolution Prismatique EV8.5",
+    "Coffret Dresseur d’Elite - Aventure Ensemble EV09",
+    "Coffret Dresseur d’Elite - Couronne Stellaire EV07",
+    "Coffret Dresseur d’Elite - Destinées de paldéa EV4.5",
+    "Coffret Dresseur d’Elite - Ecarlate et Violet EV01 (Koraidon)",
+    "Coffret Dresseur d’Elite - Ecarlate et Violet EV01 (Miraidon)",
+    "Coffret Dresseur d’Elite - Etincelles Déferlantes (EV08)",
+    "Coffret Dresseur d’Elite - Faille Paradoxe Garde-de-Fer EV04",
+    "Coffret Dresseur d’Elite - Faille Paradoxe Rugit-Lune EV04",
+    "Coffret Dresseur d’Elite - Flamme Blanche EV10.5",
+    "Coffret Dresseur d’Elite - Flammes Obsidiennes EV03",
+    "Coffret Dresseur d’Elite - Forces temporelles EV05 (Serpente-Eau)",
+    "Coffret Dresseur d’Elite - Forces temporelles EV05 (Vert-de-Fer)",
+    "Coffret Dresseur d’Elite - Foudre Noire EV10.5",
+    "Coffret Dresseur d’Elite - Mascarade Crépusculaire EV06",
+    "Coffret Dresseur d’Elite - Méga Evolution (Mega Gardevoir) ME01",
+    "Coffret Dresseur d’Elite - Méga Evolution (Mega Lucario) ME01",
+    "Coffret Dresseur d’Elite - Méga Evolution Flammes Fantasmagoriques ME02",
+    "Coffret Dresseur d’Elite - Origine Perdue EB11",
+    "Coffret Dresseur d’Elite - Pokemon Go (EB10.5)",
+    "Coffret Dresseur d’Elite - Regne de glace Sylveroy du Froid EB06",
+    "Coffret Dresseur d’Elite - Rivalités destinées  EV10",
+    "Coffret Dresseur d’Elite - Stars étincelantes",
+    "Coffret Dresseur d’Elite - Tempete argentée EB12",
+    "Coffret Dresseur d’Elite -Évolution Prismatique EV8.5",
+    "Coffret Dresseur d’Elite -Évolution Prismatique EV8.5 EN",
+    "Coffret Eaux Florissantes 151 (EV3.5)",
+    "Coffret Journée Pokémon Day 26",
+    "Coffret Lanssorien Destinées Radieuses (EB4.5)",
+    "Coffret Légendes de Johto GX",
+    "Coffret Nostenfer Destinées Radieuses (EB4.5)",
+    "Coffret Pokémon Fulgudog-V",
+    "Coffret Premium - Pokemon - Me 2.5 Heros Transcendants",
+    "Coffret Rosemary La Voie du Maitre (EB3.5)",
+    "Coffret Zoroark-GX - Légendes Brillantes SL3.5",
+    "Coffret de collection - Valisette Evoli",
+    "Collection Classeur - Évolution Prismatique",
+    "Collection Spéciale Pochette - Évolution Prismatique EV8.5",
+    "Collection Ultra-Premium Mega Dracaufeu X ex",
+    "Demi-display Rivalités Destinées (EV10)",
+    "Display Aventure Ensemble (EV09)",
+    "Display Etincelles Déferlantes (EV08)",
+    "Display Faille paradoxe",
+    "Display Rivalités Destinées (EV10)",
+    "Display Stars Étincelantes (EB09)",
+    "Display Évolution a Paldea (EV02)",
+    "Display – Mini Tin 151 (EV03.5)",
+    "Mini Tin Évolution Prismatique Aquali (EV8.5)",
+    "Mini Tin Évolution Prismatique Givrali (EV8.5)",
+    "Mini Tin Évolution Prismatique Mentali (EV8.5)",
+    "Mini Tin Évolution Prismatique Noctali (EV8.5)",
+    "Mini Tin Évolution Prismatique Nymphali (EV8.5)",
+    "Mini Tin Évolution Prismatique Phyllali (EV8.5)",
+    "Mini Tin Évolution Prismatique Pyroli (EV8.5)",
+    "Mini Tin Évolution Prismatique Voltali (EV8.5)",
+    "Mini-boîte Méga-Évolution – Héros Transcendants – Mélofée et Germignon",
+    "Mini-boîte Méga-Évolution – Héros Transcendants – Togepi et Kaiminus",
+    "Mini-boîte Méga-Évolution – Héros Transcendants – Zorua et Nicosie",
+    "Mini-boîte Méga-Évolution – Héros Transcendants – pikachu Gruikui",
+    "Mini-boîte Méga-Évolution – Héros Transcendants – riolu et Darrumarond",
+    "Mini-boîte Unys – Crocorible et Minotaupe EV10.5",
+    "Mini-boîte Unys – Fragilady et Farfaduvet EV10.5",
+    "Mini-boîte Unys – Lugulabre et Zorua EV10.5",
+    "Mini-boîte Unys – Mamanbo et Coupenotte EV10.5",
+    "Mini-boîte Unys – Miasmax et Gaulet EV10.5",
+    "Mini-boîte Unys – Ohmassacre et Mygavolt EV10.5",
+    "Mini-boîte Unys – Pyrax et Emolga EV10.5",
+    "Mini-boîte Unys – Shaofouine et Cliticlic EV10.5",
+    "Pin Box Deluxe - Pokemon - Me 2.5 Heros Transcendants",
+    "Poke test",
+    "Pokebox Destinées de Paldea – Dracaufeu-ex",
+    "Pokebox Dialga Ex",
+    "Pokebox Kyogre Ex",
+    "Pokebox Mega-Dracaufeu X",
+    "Pokebox Mega-Dracaufeu Y",
+    "Pokebox Serpente-Eau EX",
+    "Pokebox Vert-de-Fer EX",
+    "Pokebox Xerneas Ex",
+    "Pokébox Pokémon GO - Pikachu",
+    "Super Premium Collection - Évolution Prismatique",
+    "Tripack Collection Poster - Évolution Prismatique",
+    "Tripack Givrali - Évolution Prismatique",
+    "Tripack Phyllali - Évolution Prismatique"
+  ],
+  "ebayDate": null,
+  "at": "2026-04-01T21:06:22.830Z"
+}
