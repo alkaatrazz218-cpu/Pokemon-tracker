@@ -3914,6 +3914,11 @@
           "date": "27/12/2025",
           "prix": 180,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 140.19,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Tempete argentée"
@@ -3950,6 +3955,11 @@
           "date": "27/12/2025",
           "prix": 125,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 147.5,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Destinées de paldéa"
@@ -3986,6 +3996,11 @@
           "date": "27/12/2025",
           "prix": 170,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 100.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Regne de glace Sylveroy du Froid"
@@ -4022,6 +4037,11 @@
           "date": "27/12/2025",
           "prix": 290,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 178.26,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Origine Perdue"
@@ -4058,6 +4078,11 @@
           "date": "27/12/2025",
           "prix": 200,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 169.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Stars étincelantes"
@@ -4094,6 +4119,11 @@
           "date": "27/12/2025",
           "prix": 190,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 124.95,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Flammes Obsidiennes"
@@ -4130,6 +4160,11 @@
           "date": "27/12/2025",
           "prix": 300,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 134.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Poing de Fusion"
@@ -4166,6 +4201,11 @@
           "date": "27/12/2025",
           "prix": 155,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 238.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Zoroark Légendes Brillantes"
@@ -4202,6 +4242,11 @@
           "date": "27/12/2025",
           "prix": 180,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 263.33,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Légendes de Johto"
@@ -4238,6 +4283,11 @@
           "date": "27/12/2025",
           "prix": 150,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 235.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Darkrai Légendes Brillantes"
@@ -4918,6 +4968,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:34:06.241988",
+  "ebayDate": "2026-04-01T23:35:12.436127",
   "at": "2026-04-01T21:06:32.616Z"
 }
