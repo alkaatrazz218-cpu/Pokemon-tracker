@@ -4734,6 +4734,11 @@
           "date": "27/12/2025",
           "prix": 90,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 84.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Mascarade Crépusculaire"
@@ -4770,6 +4775,11 @@
           "date": "27/12/2025",
           "prix": 85,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 124.95,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Couronne Stellaire"
@@ -4806,6 +4816,11 @@
           "date": "27/12/2025",
           "prix": 270,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 290.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Display Mini Tin 151"
@@ -4842,6 +4857,11 @@
           "date": "27/12/2025",
           "prix": 90,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 194.5,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Collection Super Premium Dracaufeu"
@@ -4878,6 +4898,11 @@
           "date": "27/12/2025",
           "prix": 90,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 194.5,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Collection Super Premium Dracaufeu"
@@ -5018,6 +5043,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:36:18.775496",
+  "ebayDate": "2026-04-01T23:36:51.988454",
   "at": "2026-04-01T21:06:32.616Z"
 }
