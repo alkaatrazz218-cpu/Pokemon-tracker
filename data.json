@@ -27,7 +27,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 39.59,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Coffret Premiers Partenaires Serie 1"
     },
     {
@@ -42,7 +48,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 39.59,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Coffret Premiers Partenaires Serie 1"
     },
     {
@@ -57,7 +69,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 39.59,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Coffret Premiers Partenaires Serie 1"
     },
     {
@@ -72,7 +90,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 85.0,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Coffret Premium  Heros Transcendants Gardevoir"
     },
     {
@@ -87,7 +111,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 39.59,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Coffret Premiers Partenaires Serie 1"
     },
     {
@@ -102,7 +132,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 67.97,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Pin Box Heros Transcendants"
     },
     {
@@ -117,7 +153,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 265.0,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "box topps brooklyn marvel"
     },
     {
@@ -132,7 +174,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 166.19,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "box hobby topps disney 70th"
     },
     {
@@ -147,7 +195,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 202.54,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "box hobby topps disney 70th"
     },
     {
@@ -4314,6 +4368,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:13:37.535658",
+  "ebayDate": "2026-04-01T23:20:12.731338",
   "at": "2026-04-01T21:06:32.616Z"
 }
