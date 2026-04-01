@@ -2632,6 +2632,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 30.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Pyroli"
@@ -2668,6 +2673,11 @@
           "date": "27/12/2025",
           "prix": 55,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 70.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Collection Classeur Évolution Prismatique"
@@ -2704,6 +2714,11 @@
           "date": "27/12/2025",
           "prix": 55,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 70.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Collection Classeur Évolution Prismatique"
@@ -2740,6 +2755,11 @@
           "date": "27/12/2025",
           "prix": 95,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 119.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
@@ -2776,6 +2796,11 @@
           "date": "27/12/2025",
           "prix": 95,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 119.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
@@ -2812,6 +2837,11 @@
           "date": "27/12/2025",
           "prix": 25,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 45.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Tripack Phyllali Évolution Prismatique"
@@ -2900,6 +2930,11 @@
           "date": "27/12/2025",
           "prix": 25,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 49.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Tripack Collection Poster Évolution Prismatique"
@@ -2936,6 +2971,11 @@
           "date": "27/12/2025",
           "prix": 25,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 45.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Tripack Givrali Évolution Prismatique"
@@ -2972,6 +3012,11 @@
           "date": "27/12/2025",
           "prix": 95,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 119.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
@@ -3008,6 +3053,11 @@
           "date": "27/12/2025",
           "prix": 27,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 54.49,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Pokebox Serpente Eau"
@@ -4768,6 +4818,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:30:46.794481",
+  "ebayDate": "2026-04-01T23:31:53.686682",
   "at": "2026-04-01T21:06:32.616Z"
 }
