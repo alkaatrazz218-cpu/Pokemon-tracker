@@ -1805,6 +1805,11 @@
           "date": "27/12/2025",
           "prix": 35,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 69.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Collection Spéciale Pochette Évolution Prismatique"
@@ -1836,6 +1841,11 @@
           "date": "27/12/2025",
           "prix": 70,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 92.26,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Aventure Ensemble"
@@ -1867,6 +1877,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 29.45,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Noctali"
@@ -1898,6 +1913,11 @@
           "date": "27/12/2025",
           "prix": 220,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 249.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Display Aventure Ensemble"
@@ -1929,6 +1949,11 @@
           "date": "27/12/2025",
           "prix": 250,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 279.99,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Display Évolution a Paldea"
@@ -1960,6 +1985,11 @@
           "date": "27/12/2025",
           "prix": 50,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 49.85,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Arset Évolution a Paldea"
@@ -1991,6 +2021,11 @@
           "date": "27/12/2025",
           "prix": 370,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 390.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Display Stars Étincelantes"
@@ -2022,6 +2057,11 @@
           "date": "27/12/2025",
           "prix": 155,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 230.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Coffret Eaux Florissantes 151"
@@ -2048,6 +2088,11 @@
           "date": "27/12/2025",
           "prix": 45,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 50.0,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Boîte Surprise Évolutions Prismatiques"
@@ -2084,6 +2129,11 @@
           "date": "27/12/2025",
           "prix": 30,
           "source": "import"
+        },
+        {
+          "date": "01/04/26",
+          "prix": 45.9,
+          "source": "ebay"
         }
       ],
       "ebayQ": "Pokebox Xerneas"
@@ -4668,6 +4718,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:28:34.838000",
+  "ebayDate": "2026-04-01T23:29:40.905942",
   "at": "2026-04-01T21:06:32.616Z"
 }
