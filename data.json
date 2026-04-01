@@ -426,7 +426,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 67.9,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Pokebox Mega Dracaufeu X"
     },
     {
@@ -441,7 +447,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 66.4,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Pokebox Mega Dracaufeu Y"
     },
     {
@@ -456,7 +468,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 22.99,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Mini Tin Méga Évolution Héros Transcendants Mélofée et Germignon"
     },
     {
@@ -471,7 +489,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 29.99,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Mini Tin Méga Évolution Héros Transcendants Togepi et Kaiminus"
     },
     {
@@ -486,7 +510,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 22.99,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Mini Tin Méga Évolution Héros Transcendants pikachu Gruikui"
     },
     {
@@ -501,7 +531,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 55.39,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Mini Tin Méga Évolution Héros Transcendants Zorua et Nicosie"
     },
     {
@@ -516,7 +552,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 19.86,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Mini Tin Méga Évolution Héros Transcendants riolu et Darrumarond"
     },
     {
@@ -546,7 +588,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 30.0,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "Coffret Journée Pokémon Day 26"
     },
     {
@@ -561,7 +609,13 @@
       "ebay": null,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "01/04/26",
+          "prix": 27.41,
+          "source": "ebay"
+        }
+      ],
       "ebayQ": "2 booster Flammes Obsiennes"
     },
     {
@@ -4428,6 +4482,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:23:00.034017",
+  "ebayDate": "2026-04-01T23:24:07.433097",
   "at": "2026-04-01T21:06:32.616Z"
 }
