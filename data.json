@@ -177,7 +177,7 @@
       "cotes": [
         {
           "date": "01/04/26",
-          "prix": 166.19,
+          "prix": 202.54,
           "source": "ebay"
         }
       ],
@@ -198,7 +198,7 @@
       "cotes": [
         {
           "date": "01/04/26",
-          "prix": 202.54,
+          "prix": 186.95,
           "source": "ebay"
         }
       ],
@@ -4368,6 +4368,6 @@
     "Tripack Givrali - Évolution Prismatique",
     "Tripack Phyllali - Évolution Prismatique"
   ],
-  "ebayDate": "2026-04-01T23:20:12.731338",
+  "ebayDate": "2026-04-01T23:21:53.763456",
   "at": "2026-04-01T21:06:32.616Z"
 }
