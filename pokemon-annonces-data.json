@@ -1,25 +1,6 @@
 {
   "cardList": [
     {
-      "id": 1775585521267,
-      "nom": "Mew ex",
-      "num": "MCD01",
-      "ser": "",
-      "serNom": "",
-      "serDisp": "",
-      "etat": "Near Mint",
-      "prix": "",
-      "reverse": null,
-      "titre": "Carte Pokémon Mew ex - MCD01",
-      "vi": 4,
-      "vl": "Détaillée",
-      "date": "07/04/2026",
-      "statut": "vente",
-      "venduPlat": null,
-      "venduPrix": null,
-      "venduDate": null
-    },
-    {
       "id": 1775585559355,
       "nom": "Mew ex",
       "num": "MCD01",
@@ -45,5 +26,5 @@
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
   "vc": 3,
-  "savedAt": "2026-04-07T18:12:39.356Z"
+  "savedAt": "2026-04-07T18:12:45.424Z"
 }
