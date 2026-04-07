@@ -18,6 +18,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775585559355,
+      "nom": "Mew ex",
+      "num": "MCD01",
+      "ser": "MEG",
+      "serNom": "Méga-Évolution",
+      "serDisp": "MEG Méga-Évolution",
+      "etat": "Good",
+      "prix": "18",
+      "reverse": null,
+      "titre": "Carte Pokémon Mew ex - MCD01 - MEG Méga-Évolution",
+      "vi": 2,
+      "vl": "Collector",
+      "date": "07/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -25,6 +44,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 2,
-  "savedAt": "2026-04-07T18:12:07.648Z"
+  "vc": 3,
+  "savedAt": "2026-04-07T18:12:39.356Z"
 }
