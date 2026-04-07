@@ -14,10 +14,10 @@
       "vi": 2,
       "vl": "Collector",
       "date": "07/04/2026",
-      "statut": "vente",
-      "venduPlat": null,
-      "venduPrix": null,
-      "venduDate": null
+      "statut": "vendu",
+      "venduPlat": "lbc",
+      "venduPrix": 15,
+      "venduDate": "07/04/2026"
     }
   ],
   "sets": {
@@ -26,5 +26,5 @@
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
   "vc": 3,
-  "savedAt": "2026-04-07T18:12:45.424Z"
+  "savedAt": "2026-04-07T18:13:03.432Z"
 }
