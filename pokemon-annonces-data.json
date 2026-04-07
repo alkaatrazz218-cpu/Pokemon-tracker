@@ -1,25 +1,6 @@
 {
   "cardList": [
     {
-      "id": 1775483123484,
-      "nom": "Carabaffe",
-      "num": "130/120",
-      "ser": "MEW",
-      "serNom": "Ãcarlate et Violet 151",
-      "serDisp": "MEW Ãcarlate et Violet 151",
-      "etat": "Near Mint",
-      "prix": "40",
-      "reverse": null,
-      "titre": "Carte PokÃ©mon Carabaffe - 130/120 - MEW Ãcarlate et Violet 151",
-      "vi": 0,
-      "vl": "Classique",
-      "date": "06/04/2026",
-      "statut": "vente",
-      "venduPlat": null,
-      "venduPrix": null,
-      "venduDate": null
-    },
-    {
       "id": 1775585521267,
       "nom": "Mew ex",
       "num": "MCD01",
@@ -45,5 +26,5 @@
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
   "vc": 2,
-  "savedAt": "2026-04-07T18:12:01.287Z"
+  "savedAt": "2026-04-07T18:12:07.648Z"
 }
