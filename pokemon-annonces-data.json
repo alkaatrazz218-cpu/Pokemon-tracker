@@ -5,12 +5,12 @@
       "nom": "Mew ex",
       "num": "MCD01",
       "ser": "MEG",
-      "serNom": "MÃ©ga-Ãvolution",
-      "serDisp": "MEG MÃ©ga-Ãvolution",
+      "serNom": "MÃÂ©ga-ÃÂvolution",
+      "serDisp": "MEG MÃÂ©ga-ÃÂvolution",
       "etat": "Good",
       "prix": "18",
       "reverse": null,
-      "titre": "Carte PokÃ©mon Mew ex - MCD01 - MEG MÃ©ga-Ãvolution",
+      "titre": "Carte PokÃÂ©mon Mew ex - MCD01 - MEG MÃÂ©ga-ÃÂvolution",
       "vi": 2,
       "vl": "Collector",
       "date": "07/04/2026",
@@ -18,6 +18,25 @@
       "venduPlat": "lbc",
       "venduPrix": 15,
       "venduDate": "07/04/2026"
+    },
+    {
+      "id": 1775756370985,
+      "nom": "Démétéros",
+      "num": "BW43",
+      "ser": "PR-BW",
+      "serNom": "Promo Noir & Blanc",
+      "serDisp": "PR-BW Promo Noir & Blanc",
+      "etat": "Near Mint",
+      "prix": "6",
+      "reverse": null,
+      "titre": "Carte Pokémon Démétéros - BW43 - PR-BW Promo Noir & Blanc",
+      "vi": 0,
+      "vl": "Classique",
+      "date": "09/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -25,6 +44,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 0,
-  "savedAt": "2026-04-08T15:36:50.014Z"
+  "vc": 1,
+  "savedAt": "2026-04-09T17:39:31.007Z"
 }
