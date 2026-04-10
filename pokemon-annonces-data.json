@@ -113,6 +113,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775847993682,
+      "nom": "Pikachu Catcheur",
+      "num": "30/30",
+      "ser": "PR-XY",
+      "serNom": "Promo XY",
+      "serDisp": "PR-XY Promo XY",
+      "etat": "Excellent",
+      "prix": "10",
+      "reverse": null,
+      "titre": "Carte Pokémon Pikachu Catcheur - 30/30 - PR-XY Promo XY",
+      "vi": 3,
+      "vl": "Amical",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -120,6 +139,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 3,
-  "savedAt": "2026-04-10T19:03:43.423Z"
+  "vc": 4,
+  "savedAt": "2026-04-10T19:06:33.683Z"
 }
