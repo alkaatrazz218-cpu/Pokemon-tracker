@@ -170,6 +170,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775848424728,
+      "nom": "Attention de Tcheren",
+      "num": "GG58/GG70",
+      "ser": "CRZ",
+      "serNom": "Épée et Bouclier Crown Zenith",
+      "serDisp": "CRZ Épée et Bouclier Crown Zenith",
+      "etat": "Near Mint",
+      "prix": "10",
+      "reverse": null,
+      "titre": "Carte Pokémon Attention de Tcheren - GG58/GG70 - CRZ Épée et Bouclier Crown Zenith",
+      "vi": 1,
+      "vl": "Sobre",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -177,6 +196,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 1,
-  "savedAt": "2026-04-10T19:11:10.645Z"
+  "vc": 2,
+  "savedAt": "2026-04-10T19:13:44.729Z"
 }
