@@ -265,6 +265,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775849386510,
+      "nom": "Porte de départ",
+      "num": "DP54",
+      "ser": "PR-DP",
+      "serNom": "Promo Diamant & Perle",
+      "serDisp": "PR-DP Promo Diamant & Perle",
+      "etat": "Excellent",
+      "prix": "25",
+      "reverse": null,
+      "titre": "Carte Pokémon Porte de départ - DP54 - PR-DP Promo Diamant & Perle",
+      "vi": 1,
+      "vl": "Sobre",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -272,6 +291,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 1,
-  "savedAt": "2026-04-10T19:28:04.075Z"
+  "vc": 2,
+  "savedAt": "2026-04-10T19:29:46.511Z"
 }
