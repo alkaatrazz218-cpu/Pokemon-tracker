@@ -56,6 +56,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775847118442,
+      "nom": "Mamanbo",
+      "num": "108/086",
+      "ser": "BLK",
+      "serNom": "Cœurs Noirs et Ailes Blanches",
+      "serDisp": "BLK Cœurs Noirs et Ailes Blanches",
+      "etat": "Near Mint",
+      "prix": "35",
+      "reverse": null,
+      "titre": "Carte Pokémon Mamanbo - 108/086 - BLK Cœurs Noirs et Ailes Blanches",
+      "vi": 0,
+      "vl": "Classique",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -63,6 +82,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 0,
-  "savedAt": "2026-04-10T18:48:58.059Z"
+  "vc": 1,
+  "savedAt": "2026-04-10T18:51:58.443Z"
 }
