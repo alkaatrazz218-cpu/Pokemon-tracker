@@ -322,6 +322,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775853413099,
+      "nom": "Pyroli ex",
+      "num": "014/131",
+      "ser": "PRE",
+      "serNom": "Évolutions Prismatiques",
+      "serDisp": "PRE Évolutions Prismatiques",
+      "etat": "Near Mint",
+      "prix": "10",
+      "reverse": "Reverse Stamp",
+      "titre": "Carte Pokémon Pyroli ex - 014/131 - PRE Évolutions Prismatiques — Reverse Stamp",
+      "vi": 4,
+      "vl": "Détaillée",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -329,6 +348,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 4,
-  "savedAt": "2026-04-10T20:33:36.433Z"
+  "vc": 0,
+  "savedAt": "2026-04-10T20:36:53.105Z"
 }
