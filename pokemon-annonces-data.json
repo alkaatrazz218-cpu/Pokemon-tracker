@@ -284,6 +284,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775849501935,
+      "nom": "Échange d'Énergie",
+      "num": "212/195",
+      "ser": "SIT",
+      "serNom": "Tempête Argentée",
+      "serDisp": "SIT Tempête Argentée",
+      "etat": "Near Mint",
+      "prix": "5",
+      "reverse": null,
+      "titre": "Carte Pokémon Échange d'Énergie - 212/195 - SIT Tempête Argentée",
+      "vi": 2,
+      "vl": "Collector",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -291,6 +310,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 2,
-  "savedAt": "2026-04-10T19:31:40.971Z"
+  "vc": 3,
+  "savedAt": "2026-04-10T19:31:41.936Z"
 }
