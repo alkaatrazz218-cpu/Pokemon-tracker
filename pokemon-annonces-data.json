@@ -436,6 +436,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775854670627,
+      "nom": "Palkia G NIV.X",
+      "num": "125/127",
+      "ser": "PL",
+      "serNom": "Platine",
+      "serDisp": "PL Platine",
+      "etat": "Poor",
+      "prix": "8",
+      "reverse": null,
+      "titre": "Carte Pokémon Palkia G NIV.X - 125/127 - PL Platine",
+      "vi": 1,
+      "vl": "Sobre",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -443,6 +462,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 1,
-  "savedAt": "2026-04-10T20:56:11.186Z"
+  "vc": 2,
+  "savedAt": "2026-04-10T20:57:50.629Z"
 }
