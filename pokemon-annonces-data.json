@@ -75,6 +75,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775847530470,
+      "nom": "Victini VMAX",
+      "num": "022/163",
+      "ser": "BST",
+      "serNom": "Épée et Bouclier Poing de Combat",
+      "serDisp": "BST Épée et Bouclier Poing de Combat",
+      "etat": "Near Mint",
+      "prix": "5",
+      "reverse": null,
+      "titre": "Carte Pokémon Victini VMAX - 022/163 - BST Épée et Bouclier Poing de Combat",
+      "vi": 1,
+      "vl": "Sobre",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -82,6 +101,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 1,
-  "savedAt": "2026-04-10T18:51:58.443Z"
+  "vc": 2,
+  "savedAt": "2026-04-10T18:58:50.471Z"
 }
