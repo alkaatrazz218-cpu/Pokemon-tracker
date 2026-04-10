@@ -341,6 +341,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775853810818,
+      "nom": "Starter 1er génération - Bulbizarre / Salameche / Carapuce",
+      "num": "037 / 038 / 039",
+      "ser": "MEP MEGA EVOLUTION PROMO",
+      "serNom": "MEP Mega Evolution Promo",
+      "serDisp": "MEP MEGA EVOLUTION PROMO MEP Mega Evolution Promo",
+      "etat": "Near Mint",
+      "prix": "40",
+      "reverse": null,
+      "titre": "Carte Pokémon Starter 1er génération - Bulbizarre / Salameche / Carapuce - 037 / 038 / 039 - MEP MEGA EVOLUTION PROMO MEP Mega Evolution Promo",
+      "vi": 0,
+      "vl": "Classique",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -348,6 +367,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 0,
-  "savedAt": "2026-04-10T20:36:53.105Z"
+  "vc": 1,
+  "savedAt": "2026-04-10T20:43:30.820Z"
 }
