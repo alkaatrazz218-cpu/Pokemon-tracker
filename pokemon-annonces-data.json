@@ -455,6 +455,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775855109007,
+      "nom": "Mew ex",
+      "num": "88/97",
+      "ser": "LM",
+      "serNom": "EX Créateurs de Légendes",
+      "serDisp": "LM EX Créateurs de Légendes",
+      "etat": "Played",
+      "prix": "115",
+      "reverse": null,
+      "titre": "Carte Pokémon Mew ex - 88/97 - LM EX Créateurs de Légendes",
+      "vi": 2,
+      "vl": "Collector",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -462,6 +481,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 2,
-  "savedAt": "2026-04-10T20:57:50.629Z"
+  "vc": 3,
+  "savedAt": "2026-04-10T21:05:09.008Z"
 }
