@@ -1,25 +1,6 @@
 {
   "cardList": [
     {
-      "id": 1775585559355,
-      "nom": "Mew ex",
-      "num": "MCD01",
-      "ser": "MEG",
-      "serNom": "MÃÂÃÂ©ga-ÃÂÃÂvolution",
-      "serDisp": "MEG MÃÂÃÂ©ga-ÃÂÃÂvolution",
-      "etat": "Good",
-      "prix": "18",
-      "reverse": null,
-      "titre": "Carte PokÃÂÃÂ©mon Mew ex - MCD01 - MEG MÃÂÃÂ©ga-ÃÂÃÂvolution",
-      "vi": 2,
-      "vl": "Collector",
-      "date": "07/04/2026",
-      "statut": "vendu",
-      "venduPlat": "lbc",
-      "venduPrix": 15,
-      "venduDate": "07/04/2026"
-    },
-    {
       "id": 1775756370985,
       "nom": "DÃ©mÃ©tÃ©ros",
       "num": "BW43",
@@ -64,5 +45,5 @@
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
   "vc": 2,
-  "savedAt": "2026-04-10T07:45:14.969Z"
+  "savedAt": "2026-04-10T18:38:38.231Z"
 }
