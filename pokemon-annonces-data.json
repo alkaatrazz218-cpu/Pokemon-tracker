@@ -208,6 +208,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775848693605,
+      "nom": "Mewtwo EX",
+      "num": "61/162",
+      "ser": "BKT",
+      "serNom": "XY Impulsion TURBO",
+      "serDisp": "BKT XY Impulsion TURBO",
+      "etat": "Near Mint",
+      "prix": "20",
+      "reverse": null,
+      "titre": "Carte Pokémon Mewtwo EX - 61/162 - BKT XY Impulsion TURBO",
+      "vi": 3,
+      "vl": "Amical",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -215,6 +234,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 3,
-  "savedAt": "2026-04-10T19:15:50.872Z"
+  "vc": 4,
+  "savedAt": "2026-04-10T19:18:13.606Z"
 }
