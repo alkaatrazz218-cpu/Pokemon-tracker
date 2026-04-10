@@ -151,6 +151,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775848270643,
+      "nom": "Yveltal EX",
+      "num": "79/146",
+      "ser": "XY",
+      "serNom": "XY",
+      "serDisp": "XY XY",
+      "etat": "Played",
+      "prix": "12",
+      "reverse": null,
+      "titre": "Carte Pokémon Yveltal EX - 79/146 - XY XY",
+      "vi": 0,
+      "vl": "Classique",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -158,6 +177,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 0,
-  "savedAt": "2026-04-10T19:08:49.864Z"
+  "vc": 1,
+  "savedAt": "2026-04-10T19:11:10.645Z"
 }
