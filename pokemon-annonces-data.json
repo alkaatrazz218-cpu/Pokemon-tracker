@@ -417,6 +417,25 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
+    },
+    {
+      "id": 1775854433664,
+      "nom": "Mackogneur Édition 1",
+      "num": "8/102",
+      "ser": "BS",
+      "serNom": "Set de Base",
+      "serDisp": "BS Set de Base",
+      "etat": "Poor",
+      "prix": "10",
+      "reverse": null,
+      "titre": "Carte Pokémon Mackogneur Édition 1 - 8/102 - BS Set de Base",
+      "vi": 3,
+      "vl": "Amical",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
     }
   ],
   "sets": {
@@ -424,6 +443,6 @@
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 4,
-  "savedAt": "2026-04-10T20:53:47.451Z"
+  "vc": 0,
+  "savedAt": "2026-04-10T20:53:53.665Z"
 }
