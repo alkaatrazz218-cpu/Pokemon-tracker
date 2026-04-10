@@ -1,10 +1,30 @@
 {
-  "cardList": [],
+  "cardList": [
+    {
+      "id": 1775846537732,
+      "nom": "Artikodin",
+      "num": "161/159",
+      "ser": "JTG",
+      "serNom": "Destinées de Johto",
+      "serDisp": "JTG Destinées de Johto",
+      "etat": "Near Mint",
+      "prix": "20",
+      "reverse": null,
+      "titre": "Carte Pokémon Artikodin - 161/159 - JTG Destinées de Johto",
+      "vi": 2,
+      "vl": "Collector",
+      "date": "10/04/2026",
+      "statut": "vente",
+      "venduPlat": null,
+      "venduPrix": null,
+      "venduDate": null
+    }
+  ],
   "sets": {
     "villes": "Lille et Bethune",
     "tv": "#lotspokemon #pokemon #pascher #cadeaux #collection #reverses #holographique #holo #neuf #cartespokemon #pokemoncards #Fr #pikachu #pokemonrare #pokemontcg #anciennes #ex #wizard",
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
-  "vc": 2,
-  "savedAt": "2026-04-10T18:38:39.944Z"
+  "vc": 3,
+  "savedAt": "2026-04-10T18:42:17.733Z"
 }
