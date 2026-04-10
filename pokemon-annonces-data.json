@@ -1,25 +1,6 @@
 {
   "cardList": [
     {
-      "id": 1775756370985,
-      "nom": "DÃ©mÃ©tÃ©ros",
-      "num": "BW43",
-      "ser": "PR-BW",
-      "serNom": "Promo Noir & Blanc",
-      "serDisp": "PR-BW Promo Noir & Blanc",
-      "etat": "Near Mint",
-      "prix": "6",
-      "reverse": null,
-      "titre": "Carte PokÃ©mon DÃ©mÃ©tÃ©ros - BW43 - PR-BW Promo Noir & Blanc",
-      "vi": 0,
-      "vl": "Classique",
-      "date": "09/04/2026",
-      "statut": "vente",
-      "venduPlat": null,
-      "venduPrix": null,
-      "venduDate": null
-    },
-    {
       "id": 1775807114946,
       "nom": "Artikodin",
       "num": "161/159",
@@ -45,5 +26,5 @@
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
   "vc": 2,
-  "savedAt": "2026-04-10T18:38:38.231Z"
+  "savedAt": "2026-04-10T18:38:39.210Z"
 }
