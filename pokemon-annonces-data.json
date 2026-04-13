@@ -493,25 +493,6 @@
       "venduPlat": null,
       "venduPrix": null,
       "venduDate": null
-    },
-    {
-      "id": 1776090384277,
-      "nom": "Givraili",
-      "num": "Dp29",
-      "ser": "HS",
-      "serNom": "HeartGold & SoulSilver",
-      "serDisp": "HS HeartGold & SoulSilver",
-      "etat": "Good",
-      "prix": "18",
-      "reverse": null,
-      "titre": "Carte Pokémon Givraili - Dp29 - HS HeartGold & SoulSilver",
-      "vi": 4,
-      "vl": "Détaillée",
-      "date": "13/04/2026",
-      "statut": "vendu",
-      "venduPlat": "lbc",
-      "venduPrix": 15,
-      "venduDate": "13/04/2026"
     }
   ],
   "sets": {
@@ -520,5 +501,5 @@
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
   "vc": 0,
-  "savedAt": "2026-04-13T14:26:41.276Z"
+  "savedAt": "2026-04-13T14:26:50.758Z"
 }
