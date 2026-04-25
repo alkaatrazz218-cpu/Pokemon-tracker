@@ -33,10 +33,10 @@
       "vi": 3,
       "vl": "Amical",
       "date": "10/04/2026",
-      "statut": "vente",
-      "venduPlat": null,
-      "venduPrix": null,
-      "venduDate": null
+      "statut": "vendu",
+      "venduPlat": "lbc",
+      "venduPrix": 9,
+      "venduDate": "25/04/2026"
     },
     {
       "id": 1775846938059,
@@ -501,5 +501,5 @@
     "tl": "#pokemon #cartespokemon #pokemontcg #collection #rare"
   },
   "vc": 0,
-  "savedAt": "2026-04-25T12:14:01.931Z"
+  "savedAt": "2026-04-25T12:14:07.994Z"
 }
