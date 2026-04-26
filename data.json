@@ -174,10 +174,16 @@
       "site": "Micromania",
       "dt": "09/03/26",
       "le": null,
-      "ebay": null,
+      "ebay": 49.95,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 49.95,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Bundle Equilibre Parfait"
     },
     {
@@ -249,10 +255,16 @@
       "site": "Amazon",
       "dt": "25/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 150.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 150.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
     },
     {
@@ -264,10 +276,16 @@
       "site": "Amazon",
       "dt": "25/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 150.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 150.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
     },
     {
@@ -279,10 +297,16 @@
       "site": "Fnac",
       "dt": "25/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 150.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 150.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
     },
     {
@@ -294,10 +318,16 @@
       "site": "Amazon",
       "dt": "25/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 35.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 35.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Pokebox Mega Dracaufeu X"
     },
     {
@@ -309,10 +339,16 @@
       "site": "Amazon",
       "dt": "25/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 64.5,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 64.5,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Pokebox Mega Dracaufeu Y"
     },
     {
@@ -324,10 +360,16 @@
       "site": "Amazon",
       "dt": "24/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 30.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 30.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Mini Tin Méga Évolution Héros Transcendants Mélofée et Germignon"
     },
     {
@@ -339,10 +381,16 @@
       "site": "Amazon",
       "dt": "24/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 30.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 30.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Mini Tin Méga Évolution Héros Transcendants Togepi et Kaiminus"
     },
     {
@@ -354,10 +402,16 @@
       "site": "Amazon",
       "dt": "24/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 30.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 30.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Mini Tin Méga Évolution Héros Transcendants pikachu Gruikui"
     },
     {
@@ -369,10 +423,16 @@
       "site": "Amazon",
       "dt": "24/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 30.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 30.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Mini Tin Méga Évolution Héros Transcendants Zorua et Nicosie"
     },
     {
@@ -384,10 +444,16 @@
       "site": "Amazon",
       "dt": "24/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 30.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 30.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Mini Tin Méga Évolution Héros Transcendants riolu et Darrumarond"
     },
     {
@@ -399,10 +465,16 @@
       "site": "Amazon",
       "dt": "14/02/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 16.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 16.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Mini Tin Évolution Prismatique Nymphali"
     },
     {
@@ -444,10 +516,16 @@
       "site": "Micromania",
       "dt": "27/01/2026",
       "le": null,
-      "ebay": null,
+      "ebay": 150.0,
       "pv": null,
       "statut": "stock",
-      "cotes": [],
+      "cotes": [
+        {
+          "date": "26/04/2026",
+          "prix": 150.0,
+          "source": "ebay-active"
+        }
+      ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
     },
     {
@@ -480,7 +558,7 @@
       "site": "Carrefour",
       "dt": "20/11/2025",
       "le": null,
-      "ebay": 80,
+      "ebay": 150.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -488,6 +566,11 @@
           "date": "27/12/2025",
           "prix": 80,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 150.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
@@ -501,7 +584,7 @@
       "site": "Carrefour",
       "dt": "20/11/2025",
       "le": null,
-      "ebay": 80,
+      "ebay": 150.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -509,6 +592,11 @@
           "date": "27/12/2025",
           "prix": 80,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 150.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution Flammes Fantasmagoriques"
@@ -522,7 +610,7 @@
       "site": "Amazon",
       "dt": "14/11/2025",
       "le": null,
-      "ebay": 170,
+      "ebay": 118.9,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -530,6 +618,11 @@
           "date": "27/12/2025",
           "prix": 170,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 118.9,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Collection Ultra Premium Mega Dracaufeu X"
@@ -543,7 +636,7 @@
       "site": "King Jouet",
       "dt": "14/11/2025",
       "le": null,
-      "ebay": 170,
+      "ebay": 118.9,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -551,6 +644,11 @@
           "date": "27/12/2025",
           "prix": 170,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 118.9,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Collection Ultra Premium Mega Dracaufeu X"
@@ -585,7 +683,7 @@
       "site": "Leboncoin",
       "dt": "14/11/2025",
       "le": null,
-      "ebay": 80,
+      "ebay": 150.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -593,6 +691,11 @@
           "date": "27/12/2025",
           "prix": 80,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 150.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution"
@@ -606,7 +709,7 @@
       "site": "Leboncoin",
       "dt": "14/11/2025",
       "le": null,
-      "ebay": 80,
+      "ebay": 150.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -614,6 +717,11 @@
           "date": "27/12/2025",
           "prix": 80,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 150.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Méga Evolution"
@@ -627,7 +735,7 @@
       "site": "Carrefour",
       "dt": "02/11/2025",
       "le": null,
-      "ebay": 70,
+      "ebay": 189.99,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -640,6 +748,11 @@
           "date": "27/12/2025",
           "prix": 70,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 189.99,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Aventure Ensemble"
@@ -799,7 +912,7 @@
       "site": "Amazon",
       "dt": "26/08/2025",
       "le": null,
-      "ebay": 73,
+      "ebay": 159.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -812,6 +925,11 @@
           "date": "27/12/2025",
           "prix": 73,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 159.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Flamme Blanche"
@@ -825,7 +943,7 @@
       "site": "Carrefour",
       "dt": "18/07/2025",
       "le": null,
-      "ebay": 70,
+      "ebay": 159.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -838,6 +956,11 @@
           "date": "27/12/2025",
           "prix": 70,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 159.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Flamme Blanche"
@@ -1111,7 +1234,7 @@
       "site": "Carrefour",
       "dt": "04/06/2025",
       "le": null,
-      "ebay": 100,
+      "ebay": 189.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1124,6 +1247,11 @@
           "date": "27/12/2025",
           "prix": 100,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 189.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Rivalités destinées"
@@ -1371,7 +1499,7 @@
       "site": "Amazon",
       "dt": "30/04/2025",
       "le": null,
-      "ebay": 80,
+      "ebay": 109.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1384,6 +1512,11 @@
           "date": "27/12/2025",
           "prix": 80,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 109.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Fables Nébuleuse"
@@ -1397,7 +1530,7 @@
       "site": "Carrefour",
       "dt": "25/04/2025",
       "le": null,
-      "ebay": 155,
+      "ebay": 6.75,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1410,6 +1543,11 @@
           "date": "27/12/2025",
           "prix": 155,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 6.75,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Eaux Florissantes 151"
@@ -1449,7 +1587,7 @@
       "site": "Amazon",
       "dt": "14/04/2025",
       "le": null,
-      "ebay": 70,
+      "ebay": 189.99,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1467,6 +1605,11 @@
           "date": "27/12/2025",
           "prix": 70,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 189.99,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Aventure Ensemble"
@@ -1480,7 +1623,7 @@
       "site": "Amazon",
       "dt": "14/04/2025",
       "le": null,
-      "ebay": 20,
+      "ebay": 16.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1498,6 +1641,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 16.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Noctali"
@@ -1511,7 +1659,7 @@
       "site": "Leboncoin",
       "dt": "14/04/2025",
       "le": null,
-      "ebay": 220,
+      "ebay": 13.9,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1529,6 +1677,11 @@
           "date": "27/12/2025",
           "prix": 220,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 13.9,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Display Aventure Ensemble"
@@ -1542,7 +1695,7 @@
       "site": "Vinted",
       "dt": "11/04/2025",
       "le": null,
-      "ebay": 250,
+      "ebay": 17.88,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1560,6 +1713,11 @@
           "date": "27/12/2025",
           "prix": 250,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 17.88,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Display Évolution a Paldea"
@@ -1604,7 +1762,7 @@
       "site": "Vinted",
       "dt": "18/03/2025",
       "le": null,
-      "ebay": 370,
+      "ebay": 54.9,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1622,6 +1780,11 @@
           "date": "27/12/2025",
           "prix": 370,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 54.9,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Display Stars Étincelantes"
@@ -1635,7 +1798,7 @@
       "site": "Amazon",
       "dt": "13/03/2025",
       "le": null,
-      "ebay": 155,
+      "ebay": 6.75,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1653,6 +1816,11 @@
           "date": "27/12/2025",
           "prix": 155,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 6.75,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Eaux Florissantes 151"
@@ -1692,7 +1860,7 @@
       "site": "FNAC",
       "dt": "21/02/2025",
       "le": null,
-      "ebay": 30,
+      "ebay": 27.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1715,6 +1883,11 @@
           "date": "27/12/2025",
           "prix": 30,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 27.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Pokebox Xerneas"
@@ -1728,7 +1901,7 @@
       "site": "FNAC",
       "dt": "21/02/2025",
       "le": null,
-      "ebay": 30,
+      "ebay": 39.9,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1751,6 +1924,11 @@
           "date": "27/12/2025",
           "prix": 30,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 39.9,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Pokebox Kyogre"
@@ -1764,7 +1942,7 @@
       "site": "FNAC",
       "dt": "21/02/2025",
       "le": null,
-      "ebay": 30,
+      "ebay": 52.95,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1787,6 +1965,11 @@
           "date": "27/12/2025",
           "prix": 30,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 52.95,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Pokebox Dialga"
@@ -1862,7 +2045,7 @@
       "site": "Amazon",
       "dt": "21/02/2025",
       "le": null,
-      "ebay": 20,
+      "ebay": 16.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1885,6 +2068,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 16.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Voltali"
@@ -1898,7 +2086,7 @@
       "site": "Amazon",
       "dt": "21/02/2025",
       "le": null,
-      "ebay": 20,
+      "ebay": 16.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1921,6 +2109,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 16.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Aquali"
@@ -1934,7 +2127,7 @@
       "site": "Amazon",
       "dt": "21/02/2025",
       "le": null,
-      "ebay": 20,
+      "ebay": 16.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -1957,6 +2150,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 16.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Givrali"
@@ -1996,7 +2194,7 @@
       "site": "Amazon",
       "dt": "21/02/2025",
       "le": null,
-      "ebay": 20,
+      "ebay": 16.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2019,6 +2217,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 16.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Phyllali"
@@ -2032,7 +2235,7 @@
       "site": "Amazon it",
       "dt": "14/02/2025",
       "le": null,
-      "ebay": 240,
+      "ebay": 11.8,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2055,6 +2258,11 @@
           "date": "27/12/2025",
           "prix": 240,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 11.8,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Display Faille paradoxe"
@@ -2068,7 +2276,7 @@
       "site": "Carrefour",
       "dt": "07/02/2025",
       "le": null,
-      "ebay": 95,
+      "ebay": 101.78,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2091,6 +2299,11 @@
           "date": "27/12/2025",
           "prix": 95,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 101.78,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
@@ -2104,7 +2317,7 @@
       "site": "SmythToys",
       "dt": "07/02/2025",
       "le": null,
-      "ebay": 20,
+      "ebay": 16.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2127,6 +2340,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 16.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Mentali"
@@ -2140,7 +2358,7 @@
       "site": "SmythToys",
       "dt": "07/02/2025",
       "le": null,
-      "ebay": 20,
+      "ebay": 16.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2163,6 +2381,11 @@
           "date": "27/12/2025",
           "prix": 20,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 16.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Mini Tin Évolution Prismatique Pyroli"
@@ -2176,7 +2399,7 @@
       "site": "Amazon",
       "dt": "31/01/2025",
       "le": null,
-      "ebay": 55,
+      "ebay": 74.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2199,6 +2422,11 @@
           "date": "27/12/2025",
           "prix": 55,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 74.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Collection Classeur Évolution Prismatique"
@@ -2248,7 +2476,7 @@
       "site": "Amazon",
       "dt": "23/01/2025",
       "le": null,
-      "ebay": 95,
+      "ebay": 101.78,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2271,6 +2499,11 @@
           "date": "27/12/2025",
           "prix": 95,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 101.78,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
@@ -2284,7 +2517,7 @@
       "site": "Amazon",
       "dt": "23/01/2025",
       "le": null,
-      "ebay": 95,
+      "ebay": 101.78,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2307,6 +2540,11 @@
           "date": "27/12/2025",
           "prix": 95,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 101.78,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
@@ -2480,7 +2718,7 @@
       "site": "Auchan",
       "dt": "09/01/2025",
       "le": null,
-      "ebay": 95,
+      "ebay": 101.78,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2503,6 +2741,11 @@
           "date": "27/12/2025",
           "prix": 95,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 101.78,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Évolution Prismatique"
@@ -2516,7 +2759,7 @@
       "site": "Auchan",
       "dt": "26/12/2024",
       "le": null,
-      "ebay": 27,
+      "ebay": 35.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2539,6 +2782,11 @@
           "date": "27/12/2025",
           "prix": 27,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 35.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Pokebox Serpente Eau"
@@ -2552,7 +2800,7 @@
       "site": "Auchan",
       "dt": "26/12/2024",
       "le": null,
-      "ebay": 27,
+      "ebay": 35.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2575,6 +2823,11 @@
           "date": "27/12/2025",
           "prix": 27,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 35.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Pokebox Vert de Fer"
@@ -2588,7 +2841,7 @@
       "site": "Furet du Nord",
       "dt": "07/12/2024",
       "le": null,
-      "ebay": 40,
+      "ebay": 40.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2611,6 +2864,11 @@
           "date": "27/12/2025",
           "prix": 40,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 40.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Arset Booster blister etincelle deferlante"
@@ -2624,7 +2882,7 @@
       "site": "Leboncoin",
       "dt": "06/12/2024",
       "le": null,
-      "ebay": 240,
+      "ebay": 13.8,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2647,6 +2905,11 @@
           "date": "27/12/2025",
           "prix": 240,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 13.8,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Display Etincelles Déferlantes"
@@ -2840,7 +3103,7 @@
       "site": "Leboncoin",
       "dt": "08/10/2024",
       "le": null,
-      "ebay": 288,
+      "ebay": 280.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -2863,6 +3126,11 @@
           "date": "27/12/2025",
           "prix": 288,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 280.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Display Flammes obsidiennes"
@@ -2984,7 +3252,7 @@
       "site": "Leboncoin",
       "dt": "08/10/2024",
       "le": null,
-      "ebay": 120,
+      "ebay": 150.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3007,6 +3275,11 @@
           "date": "27/12/2025",
           "prix": 120,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 150.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Pokemon Go"
@@ -3056,7 +3329,7 @@
       "site": "Amazon",
       "dt": "23/09/2024",
       "le": null,
-      "ebay": 105,
+      "ebay": 159.9,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3079,6 +3352,11 @@
           "date": "27/12/2025",
           "prix": 105,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 159.9,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Etincelles Déferlantes"
@@ -3128,7 +3406,7 @@
       "site": "GM Card toys",
       "dt": "03/03/2024",
       "le": null,
-      "ebay": 130,
+      "ebay": 149.9,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3151,6 +3429,11 @@
           "date": "27/12/2025",
           "prix": 130,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 149.9,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Forces temporelles"
@@ -3164,7 +3447,7 @@
       "site": "GM Card toys",
       "dt": "03/03/2024",
       "le": null,
-      "ebay": 90,
+      "ebay": 149.9,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3187,6 +3470,11 @@
           "date": "27/12/2025",
           "prix": 90,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 149.9,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Forces temporelles"
@@ -3200,7 +3488,7 @@
       "site": "Vinted",
       "dt": "01/02/2024",
       "le": null,
-      "ebay": 95,
+      "ebay": 149.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3223,6 +3511,11 @@
           "date": "27/12/2025",
           "prix": 95,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 149.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Faille Paradoxe Garde de Fer"
@@ -3236,7 +3529,7 @@
       "site": "Vinted",
       "dt": "01/02/2024",
       "le": null,
-      "ebay": 115,
+      "ebay": 149.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3259,6 +3552,11 @@
           "date": "27/12/2025",
           "prix": 115,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 149.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Faille Paradoxe Rugit Lune"
@@ -3272,7 +3570,7 @@
       "site": "Vinted",
       "dt": "27/01/2024",
       "le": null,
-      "ebay": 180,
+      "ebay": 194.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3295,6 +3593,11 @@
           "date": "27/12/2025",
           "prix": 180,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 194.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Tempete argentée"
@@ -3380,7 +3683,7 @@
       "site": "Vinted",
       "dt": "21/01/2024",
       "le": null,
-      "ebay": 290,
+      "ebay": 449.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3403,6 +3706,11 @@
           "date": "27/12/2025",
           "prix": 290,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 449.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Origine Perdue"
@@ -3416,7 +3724,7 @@
       "site": "Leboncoin",
       "dt": "10/01/2024",
       "le": null,
-      "ebay": 200,
+      "ebay": 269.5,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3439,6 +3747,11 @@
           "date": "27/12/2025",
           "prix": 200,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 269.5,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Stars étincelantes"
@@ -3452,7 +3765,7 @@
       "site": "Vinted",
       "dt": "07/01/2024",
       "le": null,
-      "ebay": 190,
+      "ebay": 209.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3475,6 +3788,11 @@
           "date": "27/12/2025",
           "prix": 190,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 209.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Flammes Obsidiennes"
@@ -3488,7 +3806,7 @@
       "site": "Leboncoin",
       "dt": "04/01/2024",
       "le": null,
-      "ebay": 300,
+      "ebay": 399.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3511,6 +3829,11 @@
           "date": "27/12/2025",
           "prix": 300,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 399.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Poing de Fusion"
@@ -3524,7 +3847,7 @@
       "site": "Leboncoin",
       "dt": "04/01/2024",
       "le": null,
-      "ebay": 155,
+      "ebay": 180.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3547,6 +3870,11 @@
           "date": "27/12/2025",
           "prix": 155,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 180.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Zoroark Légendes Brillantes"
@@ -3596,7 +3924,7 @@
       "site": "Leboncoin",
       "dt": "04/01/2024",
       "le": null,
-      "ebay": 150,
+      "ebay": 7.9,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3619,6 +3947,11 @@
           "date": "27/12/2025",
           "prix": 150,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 7.9,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Darkrai Légendes Brillantes"
@@ -3632,7 +3965,7 @@
       "site": "Vinted",
       "dt": "04/01/2024",
       "le": null,
-      "ebay": 175,
+      "ebay": 369.5,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3655,6 +3988,11 @@
           "date": "27/12/2025",
           "prix": 175,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 369.5,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Ecarlate et Violet"
@@ -3668,7 +4006,7 @@
       "site": "Vinted",
       "dt": "04/01/2024",
       "le": null,
-      "ebay": 170,
+      "ebay": 369.5,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3691,6 +4029,11 @@
           "date": "27/12/2025",
           "prix": 170,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 369.5,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Ecarlate et Violet"
@@ -3704,7 +4047,7 @@
       "site": "Vinted",
       "dt": "01/01/2024",
       "le": null,
-      "ebay": 55,
+      "ebay": 28.5,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3727,6 +4070,11 @@
           "date": "27/12/2025",
           "prix": 55,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 28.5,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Collection Premium Dracaufeu"
@@ -3812,7 +4160,7 @@
       "site": "Auchan",
       "dt": "01/01/24",
       "le": null,
-      "ebay": 65,
+      "ebay": 38.49,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3835,6 +4183,11 @@
           "date": "27/12/2025",
           "prix": 65,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 38.49,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Destinées Radieuses Pikachu"
@@ -3848,7 +4201,7 @@
       "site": "Auchan",
       "dt": "01/01/24",
       "le": null,
-      "ebay": 65,
+      "ebay": 38.49,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3871,6 +4224,11 @@
           "date": "27/12/2025",
           "prix": 65,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 38.49,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Destinées Radieuses Pikachu"
@@ -3884,7 +4242,7 @@
       "site": "Ne sait pas",
       "dt": "01/01/24",
       "le": null,
-      "ebay": 55,
+      "ebay": 72.5,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3907,6 +4265,11 @@
           "date": "27/12/2025",
           "prix": 55,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 72.5,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Pokebox Destinées de Paldea Dracaufeu"
@@ -3920,7 +4283,7 @@
       "site": "Ne sait pas",
       "dt": "01/01/24",
       "le": null,
-      "ebay": 55,
+      "ebay": 72.5,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -3943,6 +4306,11 @@
           "date": "27/12/2025",
           "prix": 55,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 72.5,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Pokebox Destinées de Paldea Dracaufeu"
@@ -4028,7 +4396,7 @@
       "site": "Ne sait pas",
       "dt": "01/01/24",
       "le": null,
-      "ebay": 85,
+      "ebay": 10.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -4051,6 +4419,11 @@
           "date": "27/12/2025",
           "prix": 85,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 10.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Dresseur Elite Couronne Stellaire"
@@ -4064,7 +4437,7 @@
       "site": "Leboncoin",
       "dt": "01/01/24",
       "le": null,
-      "ebay": 270,
+      "ebay": 35.0,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -4087,6 +4460,11 @@
           "date": "27/12/2025",
           "prix": 270,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 35.0,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Display Mini Tin 151"
@@ -4100,7 +4478,7 @@
       "site": "GM Card toys",
       "dt": "01/01/24",
       "le": null,
-      "ebay": 90,
+      "ebay": 62.45,
       "pv": null,
       "statut": "stock",
       "cotes": [
@@ -4123,6 +4501,11 @@
           "date": "27/12/2025",
           "prix": 90,
           "source": "import"
+        },
+        {
+          "date": "26/04/2026",
+          "prix": 62.45,
+          "source": "ebay-active"
         }
       ],
       "ebayQ": "Coffret Collection Super Premium Dracaufeu"
